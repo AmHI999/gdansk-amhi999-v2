@@ -1,0 +1,923 @@
+Linia    2564: 496427,108051363,ty,ty,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk Hebanowskiego 87 A/6,80-766,690571001
+	Linia   16368: 1475061,825433023,Tymon,Łaszcz,39959,Poland,Pomeranian Voivodeship,Gdańsk,hausbrandta 30b/54,80-288,513795841
+	Linia   19698: 2279764,570837642,kacper,piotrkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sebastiana klonowicza 14/4,80-405,731360308
+	Linia   21440: 330613,211648767,Jan,kowalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,orzechowa 7,80-180,123456789
+	Linia   24824: 1482286,418355213,Nikola,Orlewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Olsztyńska 4c/12,80-395,660212007
+	Linia   25961: 1009480,294294878,Jakub,Kaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,17D/5,80-537,796678767
+	Linia   27015: 543295,529929027,Bruno,Dziewior,39959,Poland,Pomeranian Voivodeship,Gdańsk,Angielska Grobla 5/79,80-756,737499553
+	Linia   33072: 2181163,130180826,Aleksandra,Lechicka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hoża 9a/15,80-628,+48508082955
+	Linia   33433: 957773,721148337,konovalov,kiril,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Rotmanka, jagodowa 7/3,83-010,+48508700997
+	Linia   33674: 2359359,705363398,Tomasz,Szczygieł,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sympatyczna 20/20 Gdańsk,80-176,537152388
+	Linia   37309: 2041897,789988442,Szymon,Kazberuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stężycka 81/1,80-174,511 934 572
+	Linia   46931: 130485,529168157,Bartosz,Winiarski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Herkulesa 18,80-299,533234208
+	Linia   49084: 1419052,199130974,Patryk,Dec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jeleniogórska
+	Linia   49523: 828591,880885315,tymon,pilecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Śluza 4a/7,80-770,579825897
+	Linia   50115: 2010522,320825454,Jakub,Schreiber,39959,Poland,Pomeranian Voivodeship,Gdańsk,Podwale Staromiejskie 51/52,80-845,727766478
+	Linia   51319: 1268083,623415677,Mateusz,Durlik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Pniewskiego 4/4,80-246,+48 792 675 403
+	Linia   51546: 1745833,324459451,Darek,Potrawiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Chłodna 10/16,80-744,797638531
+	Linia   53664: 1897178,705008727,Aleksander,Kaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Zeusa 79/4 (Gdańsk OSOWA),80-299,+48 666683848
+	Linia   56390: 2162679,912393625,Dawid,Bartosiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szczecińska 45/m62,80-392,+48789208906
+	Linia   62006: 392799,345758249,Bartosz,Janczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nowiny 58,80-020,723047871
+	Linia   63730: 1005436,881313897,Artem,Panchuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Antygony 29/1,80-299,607083225
+	Linia   64962: 926226,632652308,Arseni,Kavalevich,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleksandry Gabrysiak 42/24,80-175,698908982
+	Linia   65430: 2335393,857244616,Ivo,Niski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grażyny 5b/21,80-438,572420237
+	Linia   65849: 2020603,758158323,Angelika,Pazik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Street Długa Grobla 8/17, 80-754 Gdańsk,80-754,796616669
+	Linia   68579: 1604608,717175588,Mikołaj,Kociszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Raciborskiego 24,80-288,514 703 337
+	Linia   70206: 1906958,427688232,mikita radziwonau,mikita  radziwonau,39959,Poland,Pomeranian Voivodeship,gdańsk,gdańsk okulickiego 5B mieszkanie 8,80-041,+48791249416
+	Linia   73219: 1473265,958173992,Patryk,Bodek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wiosłowa 17,80-690,514333005
+	Linia   73877: 703660,163803037,Piotr,Szczęśniak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grudziądzka 6A/34,80-414,532059600
+	Linia   75256: 2256559,424673399,Nadia,Torłop,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przytulna
+	Linia   81061: 1997350,834159828,Olaf,Ziegert,39959,Poland,Pomeranian Voivodeship,Gdańsk,Podhalańska 14,80-322,669672407
+	Linia   83112: 897654,290534344,Kamil,Berg,39959,Poland,Pomeranian Voivodeship,Gdańsk,Władysławowska 2D/10 80-388 ,80-388,577736961
+	Linia   85723: 751946,242383759,Adam,Kozieniec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ateny 22,80-299,576000268
+	Linia   86462: Gdańsk,80-462,501724044
+	Linia   87980: 1682863,574993171,Dawid,Podrażka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myczkowskiego 5 3,80-215,730431373
+	Linia   88144: 1455264,726682008,Igor,Młotkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Al. Grunwaldzka 26a/11,80-229,537082446
+	Linia   88260: 1195400,241804156,Antoni,Prześlakiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ceglana 1/2,80-270,785655652
+	Linia   93207: 2165581,773851121,Marzena,Sajko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ojcowska 92,80-146,690980787
+	Linia   97968: 1428539,208444547,Alan,Bagiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana husa 9/3,80-315,+48787747727
+	Linia   99323: 1309084,832701851,Kacper,Langowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rogalińska 6c/3,80-809,570499353
+	Linia  100819: 1970916,496926458,Piotr,Maderski,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Tezeusza 16/3,80-299,794 143 556
+	Linia  101582: 1975101,749511081,Anton,Matiushyn,39959,Poland,Pomeranian Voivodeship,Gdańsk,street-Stężycka 58
+	Linia  107607: 706118,907893543,Krzysztof,Łęgowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Słonimskiego 5/6,80-280,+48604436319
+	Linia  108590: 2287194,886773563,Krzysztof,Chmielewski,39959,Poland,Pomeranian Voivodeship,gdańsk,Ignacego krasickiego 9 e /18,80-515,509690277
+	Linia  113330: 1353896,317458548,Aleksander,Gonera,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 19 D/2,80-537,604338451
+	Linia  114048: 269023,544858148,Igor,Bartuś,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tadeusza Jasińskiego 45/39,80-175,570814810
+	Linia  123681: 2260713,550128259,Jan Pańczak,Jan  Pańczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Ostroroga 3/60,80-406,662327478
+	Linia  123863: 979547,196174777,Monika,Jaworska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Fundamentowa 1a/56,80-298,668359814
+	Linia  128862: 831348,108601211,Artur,Krzemiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lecha Bądkowskiego 43/6,80-137,506523334
+	Linia  130878: 547406,791182718,Jan,Bembnista,39959,Poland,Pomeranian Voivodeship,Gdańsk,Powstańców Wielkopolskich 5a/3,80-457,510227646
+	Linia  136513: 936576,941692253,Dmytro,Bilousenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Straszyn
+	Linia  138045: 1715552,866876549,Nazar,Krupa,39959,Poland,Pomeranian Voivodeship,Gdańsk,Łódzka 46B (3),80-180,+48881169436
+	Linia  139579: 1402364,996572001,Jacek,Orłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleja Grunwaldzka 478/38,80-206,537169788
+	Linia  146280: 199523,762937984,Hubert,Tandek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ulica jabłoniowa , 22B , mieszkanie 8,80-175,+48 792 023 243
+	Linia  153924: 1536655,428024395,Mikołaj,Jurek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Płowce 26,80-153,576151987
+	Linia  153936: 1943297,986645228,Ksawery,Chwastek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przytulna 20b/12,80-176,795056303
+	Linia  154140: 1108134,871411628,Tymon,Zworski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tamka 38b/13,80-609,535977570
+	Linia  157152: 1647928,726682008,Weronika,Rup,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szara 27a/19,80-116,+48513980221
+	Linia  157869: 931651,670921217,Mateusz,Rokita,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Obrońców Wybrzeża 8D/82,80-398,601912614
+	Linia  161049: 1174569,775890151,Jarosław,Graboś,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stężycka 63/1,80-174,+48 600927117
+	Linia  163733: 1794827,498440351,Michał,Jajus,39959,Poland,Pomeranian Voivodeship,Gdańsk,Głucha 21d/34,80-053,517202309
+	Linia  164561: 2005557,593807107,Ivan,Cheban,39959,Poland,Pomeranian Voivodeship,Gdańsk,1B Turkusowa, apt. 16,80-022,+48792337519
+	Linia  165848: 923784,557775127,Maciej,Szypulewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Seleny 8,80-299,798879797
+	Linia  166102: 388196,564217225,Igor,Gajdamowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Storczykowa 8/6,80-177,+48666407863
+	Linia  167780: 2161140,352706184,Casey,McAdams,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.kombatantów 3a/31 Zaspa,80-464,603202481
+	Linia  168429: 943116,353006141,Ignacy,Kruk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Izydy 1,80-299,537009322
+	Linia  168965: 2280394,114680610,Dawid,Sarnowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przemyska 59/20,80-180,+48691503005
+	Linia  175778: 1826926,275894883,Oliwia,Peszek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Opolska 7E/1,80-395,530526156
+	Linia  177869: 484985,825397634,Szymon,Kuryłek,39959,Poland,Pomeranian Voivodeship,gdańsk,Trakt Św Wojciecha 169a/4,80-017,537829395
+	Linia  181427: 1375849,929563625,Igor,Szymański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Profesorska 3,80-856,732991176
+	Linia  185856: 508322,905417578,Maciej,Pozlewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Piecewska 31/178,80-288,+48 532 491 456
+	Linia  186225: 1709586,425287336,Jakub,Kozłowski,39959,Poland,Pomeranian Voivodeship,gdańsk,Damroki 58/8,80-177,508093726
+	Linia  187369: 2049815,763491567,Franciszek,Górski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Brukowa 14
+	Linia  187370: Gdańsk 80-135,80-135,+48531922615
+	Linia  188037: 2178991,293751067,Filip ,Krajewski ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Gryfa Pomorskiego 1B,80-299,513092911
+	Linia  205903: 2164098,281127180,Hubert,Jasinski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Płocka 136,80-180,731413346
+	Linia  209204: 375712,699999922,Oliwier,Pomykacz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska345A/7,80-125,500540366
+	Linia  210427: 1506564,759010525,Yevheniia,Shevchenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przemyska 32,80-180,+48886937810
+	Linia  214311: 1836900,418171845,kacper,piasecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Polanki132a/1,80-322,669649301
+	Linia  214321: 1568639,416925372,Filip,Banaszek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przytulna 30/18,80-176,789786257
+	Linia  216048: 1506763,707597964,Justyna,Ryfka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Ojcowska 10,80-146,882128497
+	Linia  219712: 2353084,168313961,Oliwer,Piskulski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Pomorska 82/c/41,80-345,+48 519 606 433
+	Linia  221462: 543609,291231779,Maciej,Wolański,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Do Studzienki 32 
+	Linia  222873: 1542231,684632662,Kacper,Bogdanowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,podmiejska 12/9,80-038,511193284
+	Linia  223300: 1362704,783249491,Ignacy,Nowicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, ul. Chwaszczyńska 11/6,80-871,577709200
+	Linia  223760: 1935901,886866842,Jakub,Jarmołowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Skarpowa 120/4,80-145,501224158
+	Linia  223771: 1301873,133440298,Wiktor,Sitek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tenisowa 8/13,80-180,500483851
+	Linia  224958: 559256,201419648,Przemek,Piotrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tęczowa 35,80-297,539 940 182
+	Linia  235813: 2230869,698818751,Jakub,Szczepański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Górskiego 12/18,80-336,+48793444237
+	Linia  238658: 1300470,557508252,Dagmara,Laskowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Słowackiego 45/41,80-257,+48 607705514
+	Linia  239148: 499727,256027411,Dominik,Janin,39959,Poland,Pomeranian Voivodeship,Gdańsk,Borkowo Współczesna 8/39,80-180,500691073
+	Linia  239916: 1993216,630189536,Dominika,Zaręba,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Myśliwskie wzgórze 10a/18,80-283,+48695505870
+	Linia  242824: 1012016,654273411,Szymon,Wasilewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Suchanino, ul. Otwarta 2/39,80-169,511107432
+	Linia  247224: 2155413,525409818,Volodymyr,Kalnytskyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stanisława Witkiewicza 5/6,80-319,+48731712757
+	Linia  261772: 1112621,428024395,Mateusz,Guss,39959,Poland,Pomeranian Voivodeship,Gdańsk,Legnicka 4,80-150,574685032
+	Linia  263700: 1267392,800545121,maksym,Kushnir,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 115/10 Gdańsk,80-283,739062960
+	Linia  264383: 606045,181774854,Piotr,Jarmużek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Słupska 44,80-392,794774088
+	Linia  265158: 415134,878451322,Aleksander,Pszczołowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk Przyokopowa 9a/1,80-746,666668835
+	Linia  273730: 2242805,630068568,Patryk,Markiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Śląska
+	Linia  274385: 490923,559186234,Julian,Umiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,piłkarska 28,80-180,721622990
+	Linia  275552: 2181329,704597964,wojtek,abłaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,rzeżnicka 47b/5,80-222,722293834
+	Linia  275869: 1508725,802196893,Monika,Szostakiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Chopina 39,80-268,889051100
+	Linia  277817: 1326678,202660433,Łukasz,Święcicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Norwida 21/13,80-280,+48733745938
+	Linia  278065: 1041303,258028785,Julek,Wiesniewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Partyzantów 8/1,80-254,796584514
+	Linia  278511: 139688,252776471,patryk,romaniuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Księdza Robaka 16,80-119,+48669102986
+	Linia  279505: 2109504,142394497,Daniel,Wierzchowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Platynowa 15/42,80-041,+48691347918
+	Linia  286737: 2250463,355961893,Samantha ,Kimberly ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Święta barbara 14,80-753,795782005
+	Linia  286760: 1973160,396501673,Hubert,Miszkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Chłodna 13/1 80-744 Gdańsk,80-744,518714990
+	Linia  295797: 2039793,433508853,Bartek,Bondarenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jeziorna 14B2 Banino,80-297,798634624
+	Linia  296356: 507928,641695831,Oleksii,Bashynskyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Wydmy 10,80-656,+48787131588
+	Linia  298813: 1525352,725951353,Kryspin,Sopoliński,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Hebanowskiego 83D/4,80-766,509546131
+	Linia  298991: 1112365,978633121,Błażej,Filip,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kadetów 2/49,80-298,+48882537602
+	Linia  300753: 1630559,216184325,Michał,Czaja,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Trakt Świętego Wojciecha 375,80-007,+48 518 604 611
+	Linia  302627: 1895718,433260569,Igor,Borowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska 86a 48,80-345,885063511
+	Linia  303959: 1221567,318477715,Dawid,Bialek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Profesora Szpora 14,80-809,505555190
+	Linia  309111: 1465963,909276155,Szymon,Brzeski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sempolowskiej 7/4,80-744,794055588
+	Linia  310683: 683380,458294190,Mate,Czikora,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kołobrzeska 36, Student Depot,80-391,+36203718613
+	Linia  311131: 1985584,552781445,Kamil,M,39959,Poland,Pomeranian Voivodeship,Gdańsk,Startowa 19 A/6,80-461,513234090
+	Linia  311613: 279657,791247472,Kamil,Kryszczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Goska 15/21,80-177,577717210
+	Linia  313043: 1631127,556883925,Hubert,Kowalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 61/u6, Gdańsk,80-283,537227536
+	Linia  317835: 1843862,539379073,Igor,Bartnicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jaworzniaków 32,80-180,661360211
+	Linia  326968: 506528,313816995,Szymon,Łobodziński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Inżynierska 24,80-298,665630407
+	Linia  327037: 1387529,390039790,Lukasz,Szydlowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kasjopei 31,80-299,731117939
+	Linia  327318: 1930309,106252089,Rafał,Trybułowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,gryglewskiego 15a,80-303,+48533073489
+	Linia  330703: 2249961,492537862,Mariusz,Ratajski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przytulna 24 m.19,80-176,660787857
+	Linia  330890: 1363962,132764323,Mikołaj,Hałuszczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bogumiła Kobieli 41/11,80-516,733 211 256
+	Linia  345506: 2259124,177622108,Łukasz,Gwara,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lęborska 22c/30,80-387,696819422
+	Linia  346607: 1491123,209911165,Vladyslav,Yakubiv,39959,Poland,Pomeranian Voivodeship,Gdańsk,Andrzeja Struga
+	Linia  347149: 241143,381063990,Amir,Khamza,39959,Poland,Pomeranian Voivodeship,Gdansk,Aleja Grunwaldzka 6/7, Gdańsk,80-236,+48514896589
+	Linia  353084: 1464228,114835828,jackob,Wiśniewski,39959,Poland,Greater Poland Voivodeship,Gdańsk,Jagiellońska 44 b/4,80-366,577121262
+	Linia  358539: 2057749,820962201,Michał,Kamiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 17E/1,80-537,451098675
+	Linia  364651: 552588,820498358,iwona,kućko,39959,Poland,Pomeranian Voivodeship,Gdańsk,twarda 19/13 80-871 Gdańsk,80-871,0048516382338
+	Linia  366944: 1322309,293761009,Tymon,Senczyszyn,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hirszfelda 4,80-808,574631248
+	Linia  368881: 1979945,246109007,Maciej,Miler,39959,Poland,Pomeranian Voivodeship,Gdańsk,Biegańskiego 19B/17,80-807,518832019
+	Linia  370021: 2245030,667357106,Jan,Kach,39959,Poland,Pomeranian Voivodeship,gdańsk,Paderewskiego 8c/81,80-170,573401506
+	Linia  370094: 2324741,617360711,Dmytro,Polianovskyi ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Lesna gora 23
+	Linia  371025: 687797,363554813,Mateusz,Szwajkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bolesława Krzywoustego 19B/30,80-360,+48 519 727 257
+	Linia  373345: 552401,293770699,Maks,Siecinski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Podwale Staromiejskie 104-106/5,80-844,505840440
+	Linia  374996: 749454,400343407,Jonathan,Kaczmarek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Filmowa 8,80-298,+48 577 666 822
+	Linia  383195: 2177611,493706179,Dmytro ,Pustovit ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Rybaki Dolne 2/10
+	Linia  387631: 1252992,670178746,Aleksander,Stankiewicz,39959,Poland,Kujawsko-Pomorskie,Gdańsk,dywizjonu 303 1/5/37,80-462,607402684
+	Linia  388024: 765576,555788158,Marcel,Mec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Królewskie Wzgórze 25/5 Gdańsk 80-283,80-283,782688713
+	Linia  388812: 933439,277285492,Konrad,zolopa,39959,Poland,Pomeranian Voivodeship,Gdańsk,Konna 30 C,80-174,504443361
+	Linia  389486: 1273690,370452401,daniil,vietrohon,39959,Poland,Kujawsko-Pomorskie,gdańsk,Marynarki Polskiej 40,80-557,+48698557980
+	Linia  395277: 1701816,119431774,Marcin,Adamik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Profesora Romana Lipowicza 6,80-809,691218661
+	Linia  399027: 2307658,601471335,Bahdan ,Perapechka ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Orłowska 5A/24
+	Linia  399483: 2122864,813300637,Nikodem,Szybowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przyokopowa 2,80-746,515901872
+	Linia  401106: 2338135,536535013,Jan,Skwiot,39959,Poland,Pomeranian Voivodeship,Gdańsk,Śniadeckich 3/1,80-204,883101938
+	Linia  428954: 543793,389066356,Oskar,Piasecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Piecewska 34b,80-288,691290048
+	Linia  430089: 1113379,634628373,IVAN,LADCHENKO,39959,Poland,Pomeranian Voivodeship,Pruszcz-Gdańsk,Benedykta Dybowskiego 15/16,83-004,+48513461637
+	Linia  431313: 2233837,181053295,Nikodem,Wisiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Radarowa 37,80-298,503516563
+	Linia  435464: 497810,279678594,Ok,Mina,39959,Poland,Pomeranian Voivodeship,Gdańsk,batorego9/7,80-170,794524405
+	Linia  437219: 658469,155395475,Alan,G,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Andrzeja Grubby 2/37,80-180,535 226 367
+	Linia  437393: 1821584,740487663,Tymon,Sowański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rycerza Blizbora 25/5,80-177,+48 795 674 063
+	Linia  443766: 1414520,677976379,eryk,ceci,39959,Poland,Pomeranian Voivodeship,Gdańsk,morenowe wzgórze 26b/5,80-283,739117005
+	Linia  443895: 529202,534724217,Wiktor,Sebastiański,39959,Poland,Pomeranian Voivodeship,Gdańsk,wyzwolenia 23/41,80/537,+48 512893951
+	Linia  444204: 1427537,688800528,Daniel,Dzijak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 71 C/2,80-283,578425945
+	Linia  446716: 1967403,183032494,Roman,Zui,39959,Poland,Pomeranian Voivodeship,Gdańsk,królowej Jadwigi 137E/17,80 034,+48725529782
+	Linia  446890: 2260741,550128259,Jan Pańczak ,Jan Pańczak ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Ostroroga 3/60,80-406,662327478
+	Linia  449569: 1011362,626760275,Dominik,Radkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Konrada Guderskiego 28/4,80-180,608770034
+	Linia  450737: 1117560,28723591,Szymon,Konczal,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pilotów 10G/19,80-460,790820882
+	Linia  453823: 2094755,423555896,Jędrzej,Zubowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,świętej Barbary 11/183,80-753,792582112
+	Linia  455105: 524360,941418187,Maksymilian,Czuja,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jeleniogórska 32/6,80/180,513402666
+	Linia  456291: 2160273,163113086,kuba,werschner,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cygańska góra 22/9,80-171,500616967
+	Linia  457057: 1186659,935131797,Piotr,Różycki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Św. Barbary 11/2,80-753,500 236 205
+	Linia  459935: 1763731,220623663,Jan,Demain,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tytusa Chałubinskiego 17B / 14,80-807,+48692307560
+	Linia  462054: 741231,429196753,Adrian,Markowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nad Potokiem 3/10,80-041,+48 660265266
+	Linia  462071: 2260739,550128259,Jan    Pańczak,Jan Pańczak ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Ostroroga 3/60,80-406,662327478
+	Linia  468960: 1257534,919202191,Witold,Wojdyło,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ignacego Krasickiego 9A/43,80-515,737531853
+	Linia  472045: 1447572,562891607,Aleksander,Nitschke,39959,Poland,Pomeranian Voivodeship,Gdańsk,Strzelca 5,80-299,+48 790 427 799
+	Linia  475773: 1507704,425898319,Juliusz,Grabowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kurpińskiego 11c/29,80-169,+48501265586
+	Linia  476945: 1787220,178017107,Franciszek,Grzegorzewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gospody 25b/6,80-344,796 100 518
+	Linia  478966: 1784899,438145215,Ostap,Lebidko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leszczynowa 94B/3,80-175,+48531820947
+	Linia  480712: 2138429,888972534,Tomasz,Kopański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Elfów 101,80-180,+48667594213
+	Linia  482994: 133481,659524766,Ruslan,Labuts,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aldony 2a/24,80-438,+48725426029
+	Linia  485088: 2085103,927588255,Igor,madalinski,39959,Poland,Kujawsko-Pomorskie,gdańsk,Grunwaldzka 158/1,80-258,537997621
+	Linia  489559: 2229727,623759480,Mariia,Nigmatullina ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Szafarnia 11, lok. F39 80-750 Gdańsk, Poland ,80-750,+48453431126
+	Linia  489960: 1797368,183906908,Maciej,Husenbegovic,39959,Poland,Pomeranian Voivodeship,Gdańsk,Królewskie Wzgórze 13/38,80-283,+48690254036
+	Linia  500999: 2049580,231757704,mateusz,lolo,39959,Poland,Pomeranian Voivodeship,Gdańsk,Makuszyńskiego 1b/9,80-291,796637858
+	Linia  501410: 409016,185219098,Oliwier ,Orłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,suchanino kamieńskiego 9e, 138,80-170,576852460
+	Linia  503557: 277403,279128382,Tymon,Michałowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Spichrzowa 26/2,80-75o,516588522
+	Linia  508129: 1045560,177988863,Jakub,Jasiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Olimpijska 44/22,80-180,730336326
+	Linia  514255: 750121,203019779,Damian,Sztormowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Obrońców Wybrzeża 23/141,80-398,735751688
+	Linia  516472: 715095,213798102,Rafał,rozgajło,39959,Poland,Pomeranian Voivodeship,Gdańsk,Plac dominikański 1 Hala Targowa box 034,80-844,507607944
+	Linia  517115: 578979,109000040,Kacper,Gutowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska 82b/69,80-345,882456037
+	Linia  517423: 2352646,166050505,Igor,Miszkiel,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jankowo Gdańskie Sportowa 20,80-180,533098846
+	Linia  518220: 2239658,512584118,Dominik,Makurat,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sztormowa 1B/5,80-335,530859120
+	Linia  519268: 498186,105506826,Adam,Zakrzewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska 345A/5,80-125,+48661016563
+	Linia  531176: 1546635,329160869,Wojtek,Krymkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Świbnieńska 128,80-690,571340041
+	Linia  531729: 811015,574847985,Olivier,Kowalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leszczynowa 88/20,80-175,502289303
+	Linia  533483: 2360481,988475563,Tymofij,Kurhanskij,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Stefana Drzewieckiego 3 3c 3 Gdańsk,80-464,514659384
+	Linia  533802: 1611619,146568105,Oliwier,Chrapkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Syriusza 14,80-299,512656446
+	Linia  534113: 1747214,688545399,Tomasz,Chojnacki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Skarżyńskiego 14B/6,80-463,662013662
+	Linia  539989: 675471,226003448,Anastasia,Oharko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Złotników 25/27, 6,80-824,725 579 833
+	Linia  545011: 330979,765522221,Kacper,Nowak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przetoczna 67 Mieszkanie 6,80-702,669909032
+	Linia  546889: 2023599,507713076,Natalia,Proć,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lenartowicza 13f/3,80-704,510625227
+	Linia  550326: 261014,592982903,Konrad,Kaim,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stężycka 67/2,80-175,501302831
+	Linia  552700: 155423,291231779,Maciej,Wolański,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Do Studzienki 32
+	Linia  555466: 722465,126863557,ALicja,Pela Profit4you,39959,Poland,Pomeranian Voivodeship,Gdańsk,Abrahama 1a 5.03,80-307,+48575300608
+	Linia  557348: 599166,503023196,Franciszek,Waleczkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk Osowa,Perseusza 8c m.2,80-299,515575792
+	Linia  557922: 174057,111290442,Oskar,Kloskowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska 459/8,80-298,796823496
+	Linia  558738: 462562,736764239,Nathan,Kucewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Maki 11 Jankowo Gdańskie,80-180,698644765
+	Linia  563552: 1930903,146081142,Julia,Diaków,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cygańska góra, blok 3C, mieszkanie 12,80-171,573914034
+	Linia  565969: 1921341,186923821,Hubert,Rybakowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Astronautów 16,80-298,881289504
+	Linia  566515: 247659,539063728,Antoni,Jakowicz,39959,Poland,West Pomeranian Voivodeship,Gdańsk,Porębskiego 37/4,80-180,+48 668 533 266
+	Linia  568029: 1487513,806040951,PbCar Paweł,Dawid,39959,Poland,Pomeranian Voivodeship,Gdańsk,Milskiego 1/3,80-809,509491590
+	Linia  570364: 30260,695261418,Jakub,Szulc,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zielony Stok 11/10,80-119,789211080
+	Linia  572074: 471447,932449436,Denis,Cieślak,39959,Poland,Pomeranian Voivodeship,Gdańsk,rubinowa 15 Banino,80-298,500088070
+	Linia  576232: 471002,781602499,Kamil,Korzeniowski,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Niepołomicka 50/56,80-180,+48727436589
+	Linia  577377: 1977190,899489411,Bogna,Garczewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leszczynowa 11,80-175,509651604
+	Linia  590358: 868357,171245157,Antoni,Zajmała,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jeleniogórska21a/4,80-180,789 019 563
+	Linia  591630: 1618062,139760037,Piotr,Samborski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lecha Bądkowskiego 11/3,80-137,731 131 049
+	Linia  592952: 339100,518753530,Fabian,Janczynski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sienkiewicza 6/7 5d,80-227,537764552
+	Linia  594181: 1704368,308799070,Olena,Lavrentieva,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Żwirki i Wigury 5b m.14,80-463,+48889070146
+	Linia  594575: 831812,909673313,niko,kwiat,39959,Poland,Pomeranian Voivodeship,Gdańsk,słabego 17a/6,80-298,733 449 389
+	Linia  597600: 1458398,912053129,Marcel,Rybicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jaworzniaków 2/3 80-180 Gdańsk,80-180,519815187
+	Linia  599333: 2151783,639638678,Karol,Cubeddu,39959,Poland,Pomeranian Voivodeship,Gdańsk,wypoczynkowa 24/34,80-341,+48 790 808 304
+	Linia  601370: 1811956,273656638,Rafał,Choryński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ustronie 9,80-759,509895540
+	Linia  601764: 1010388,806139833,Mikołaj,Knitter,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hery 2/2,80-299,507526250
+	Linia  605326: 2293740,377481307,Kuba ,Foltyn,39959,Poland,Pomeranian Voivodeship,Gdańsk,Prezydenta Lecha Kaczyńskiego 22a/5,80-373,503992101
+	Linia  608426: 1602365,824493914,Igor,Banaszczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szpaki
+	Linia  614461: 1098188,801656236,Artur,Lototskyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,Konstantego Bergiela 6/A 6,80-180,+48694630190
+	Linia  624007: 2185458,427948297,Konrad,Milewski,39959,Poland,Pomeranian Voivodeship,Gdańsk ,
+	Linia  624972: 1901190,878952703,Jakub,Furyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Majora Mieczysława Słabego 8/14,80-298,797503663
+	Linia  626311: 2085090,927588255,Igor,madalinski,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Grunwaldzka 158/1,80-258,537997621
+	Linia  627844: 1806406,211477752,Lena,Krygier,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Wielkiego 51/4,80-180,880712627
+	Linia  628684: 816839,120786415,Oliwer,Dzielski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stryjewskiego 13b/3,80-607,507053820
+	Linia  633047: 1930461,526947860,Alan,Karch,39959,Poland,Pomeranian Voivodeship,Gdańsk,wołkowyska 17/5,80-283,+48538384964
+	Linia  634493: 561493,692025913,Antek,Bach,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przyjemna 3/6,80054,516627307
+	Linia  637038: 954933,554688740,Michal,Bednarczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Al.Jana Pawła II 1E/75,80-462,514200623
+	Linia  638212: 150060,946261703,Piotr,Wiecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Marynarki Polskiej 55C,80-557,881493099
+	Linia  645961: 2344893,724197513,Hubert,Wiśniewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleja Jana Pawła II 3B/30,80-462,511404206
+	Linia  646151: 1485021,661758075,Kamil,Kalisz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Władysława Cieszyńskiego 30D/40,80-809,733040482
+	Linia  649364: 1153905,957136009,Damian,Cierlicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Warneńska 12c/2,80-288,+48512988003
+	Linia  649677: 1714851,817790087,Aleksandra,Lechicka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hoża 9a/15,80-628,+48508140898
+	Linia  650435: 1458664,689998414,Przemysław,Śliwiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Krzysztofa Komedy 26/32,80-176,+48504179556
+	Linia  653010: 572310,678281234,Volodymyr,Orliuk,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Franciszka Zabłockiego 2a / number of apartament 30,20-287,+48 579 250 355
+	Linia  653495: 1148004,424056243,Kacper,Mikusiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Al. Grunwaldzka 31
+	Linia  656125: 33000,238786531,TOmasz,Nigger,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska 17,80334,574246731
+	Linia  658226: 2322603,130230717,Radosław,Kędzierski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Ogarna 93/94 mieszkanie 8,80-826,+48511155104
+	Linia  665852: 2308358,769784406,Hubert,Walkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Mściszewice 85A,83-321,538288241
+	Linia  666550: 1546091,382992643,Joachim,Pazdzior,39959,Poland,Pomeranian Voivodeship,Gdańsk,Góralska 67/17,80-292,571 037 812
+	Linia  668993: 1656237,428181410,sebastian,walkusz,39959,Poland,Pomeranian Voivodeship,gdańsk,Leźno aleja lipowa 54,80-298,691537001
+	Linia  670860: 815731,792824442,Jakub,Sałek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zwrotnikowa 8 Straszyn,83-010,691915424
+	Linia  670880: 1673790,985574802,Paweł,Plewnicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pawła Gdańca 10b/38,80-336,80-336
+	Linia  674344: 1017105,862792005,Damian,Jurowaty,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pusta 46,80-734,790792787
+	Linia  676233: 905821,138005918,Szymon,Malinowski,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Współczesna 3a/3,80-253,535353760
+	Linia  678348: 1333152,942300748,Rafa,Giménez Uso,39959,Poland,Pomeranian Voivodeship,robotnicza 16-Gdańsk,Robotnicza 16, 80-864 Gdańsk, Polonia,80-864,+34653824134
+	Linia  680922: 973418,779819580,Wiktor,Grzyb,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 73D/6,80-283,730270206
+	Linia  681860: 383602,973243998,Alex,Malewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Łowicka 10e/1d,80-642,534469564
+	Linia  687053: 677961,247816633,Adam,Lewandowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Romana Wyrobka 3/12,80-288,735020180
+	Linia  693953: 1494784,427398552,Maciej,Walecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Piotrkowska 28/3,80-180,695063395
+	Linia  694812: 878257,318409055,Bartosz,Michalak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Łódzka 36C/6,80-180,737345611
+	Linia  696394: 928984,901720858,Cezary,Rudnicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Olsztyńska 3a/52,80-395,794694470
+	Linia  702179: 1021132,400169489,Klaudia,Terka,39959,Poland,West Pomeranian Voivodeship,Gdańsk,Niepołomicka 50/56,80-180,536506189
+	Linia  705861: 1483316,892550135,Kacper,Sierbiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Łagiewniki 8/9 5,80-847,730180370
+	Linia  707841: 1789126,699889045,Wiktor,Szpaczek,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Prezydenta Lecha Kaczyńskiego 35,80-364,664616714
+	Linia  710900: 2001843,728433760,Dawid,Kula,39959,Poland,Pomeranian Voivodeship,Gdańsk,13 kolonia,83-010,733744766
+	Linia  712632: 2244238,488772425,Jakub,Trzciński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pawła Gdańca 10a/20,80-336,508574662
+	Linia  713051: 1427900,86657836,Juan Carlos,Gonzalez,39959,Poland,Pomeranian Voivodeship,Gdansk,Aleja Grunwaldzka 415, 80-309 Gdańsk, Polonia. Cognizant Office 4th Floor,80-309,+48500573006
+	Linia  717401: 597376,137007839,Jan,Nasiadka,39959,Poland,Pomeranian Voivodeship,Gdańsk,konwalii 5,80-410,508080878
+	Linia  718402: 1286466,809347973,Pawel,Zaborowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Fryderyka Chopina 7,80-268,502291452
+	Linia  718456: 1565090,845430269,Antek,Kolelis,39959,Poland,Pomeranian Voivodeship,Gdańsk,Żabka Piekarnicza 3 lok. 6,7,80-126,573409280
+	Linia  720845: 736909,387126476,Witold,Cieśliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dolne Młyny 17c,80-293,571293528
+	Linia  721504: 2165861,481159018,Daniil,Tupik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jelitkowski Dwór 15a/12,80-365,+48570898641
+	Linia  724083: 1365305,382201253,Adam,Tuszkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Malborska 5A/9,80-392,+48 730 152 797
+	Linia  726384: 125102,535580167,Michał,Dziurdź,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dywizjonu 303 9a/3,80-462,600168669
+	Linia  727881: 1513093,273180149,Mateusz,Świąder,39959,Poland,Pomeranian Voivodeship,Gdańsk,orląt lwowskich 74    80-180,80-180,578497823
+	Linia  730524: 2209223,396922709,Rafał,Zinkiewicz,39959,Poland,Pomeranian Voivodeship,GDAŃSK,ul. Granitowa 2/2 
+	Linia  730525: 80-030 Gdańsk 
+	Linia  730556: 2081775,969854536,Arsenii,Redko,39959,Poland,Kujawsko-Pomorskie,Gdańsk ,Kazimierza Porębskiego 24/15,80-180,+48720826393
+	Linia  733559: 1384212,722609581,Mateusz,Bystrzanowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ignacego Domeyki 4,80-124,609418899
+	Linia  736546: 1280980,608933372,Wiktor,Grabowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kościuszki 127/10,80-427,733443399
+	Linia  738492: 784395,335145730,Marcel,klifu,39959,Poland,Kujawsko-Pomorskie,gdańsk,dywizjonu 303,80-462,+48572569755
+	Linia  741176: 216485,125047477,Łukasz,Rudziński,39959,Poland,Pomeranian Voivodeship,Pomorskie,Fryderyka Chopina 7, 80-268 Gdańsk,80-268,537953781
+	Linia  750250: 118946,922029957,Piotr,Biesik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wita Stowsza 31a/10,80-312,666634618
+	Linia  756076: 598841,685230439,Afeef,Rauf,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dębowa 5, Dom Student 4, Room 232,80-204,+48578216057
+	Linia  756168: 1024654,500356918,Mikołaj,Kusio,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leona Wyczółkowskiego 26/2,80-147,570275036
+	Linia  760453: 946981,903388274,Damian,Janusz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kadetów9/36,80-298,733952333
+	Linia  767455: 1006115,810494263,Szymon,Wądołowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Góralska 67/37,80-292,+48535377146
+	Linia  771608: 1946382,289367792,Adrian,Śliwiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Number 2,80-017,575558535
+	Linia  773237: 511726,679341154,Aleks,Falk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zakopiańska 24a/6,80-142,666331019
+	Linia  773901: 2238931,935428224,Miłosz ,Skibicki,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Kuszników 21/3,80-175,605 171 012
+	Linia  774265: 1937864,500177875,Mariusz,rogala,39959,Poland,Pomeranian Voivodeship,gdańsk,pastelowa 14/62 gdańsk 80-180,80-180,+48514197261
+	Linia  777455: 191439,944029629,Natalia,Pietrzak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Krosna 32/1,80-857,500100719
+	Linia  778285: 498151,480822426,Ignacy,Kapica,39959,Poland,Pomeranian Voivodeship,Gdańsk,Politechniczna17/7,80-288,579637681
+	Linia  785967: 721648,899558930,Igor,Szymczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aliny Pienkowskiej 23,80-180,530686784
+	Linia  786333: 1860107,436954941,Antoni,Prześlakiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ceglana 1/2,80-270,785655652
+	Linia  786426: 1799596,676718575,Agnieszka,Mikołajewicz,39959,Poland,Greater Poland Voivodeship,gdańsk,mari konopnickiej 10/lok2  dental med clinic,80-240,724233255
+	Linia  787773: 1457985,384189150,Dawid,Kopczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leszczynowa
+	Linia  788538: 1131581,568703504,Bartosz,Maciejewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.mirona Białoszewskiego 18/6,80-280,607109750
+	Linia  792552: 2215021,132339947,Nikola,Jakoniuk,39959,Poland,Pomeranian Voivodeship,gdańsk,Kołobrzeska 65 M / 13 Gdańsk,80-396,690342097
+	Linia  793884: 272638,177622108,Marek,Laborowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Łódzka 62,80-180,782344418
+	Linia  794890: 1493269,343786728,Tymoteusz,Hofman,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hallera 201,80416,690952074
+	Linia  799363: 1314193,557990742,Tymek,harbachyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Jana Kochanowskiego 65-5,80-402,+48790731484
+	Linia  800167: 1061272,272593002,Filip,Gajewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nieborowska 34c/5,80-034,696031249
+	Linia  801665: 2229726,623759480,Mariia,Nigmatullina ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Szafarnia 11, lok. F39 80-750 Gdańsk, Poland ,80-750,+48453431126
+	Linia  809171: 1016540,246312349,Adrianna,Niemczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grunwaldzka 413,80-309,783999005
+	Linia  813507: 674929,211982237,Oskar,Żebrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Lawendowe wzgórze 14/14,80-175,518584345
+	Linia  815531: 1437275,364228488,tomasz,romaszko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kraśnięta 95,80-177,794490330
+	Linia  818979: 1213075,677653570,Marta,Pawlak,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Ul.Kolorowa 25e/46,80-180,0048739668221
+	Linia  827602: 2014800,494484036,Olena,Olszewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Wypoczynkowa 4/13,80-341,571206421
+	Linia  828815: 1413701,756339049,oleksii,kukhtii,39959,Poland,Kujawsko-Pomorskie,gdańsk,opolska 7c, 4,80-395,+48889121660
+	Linia  835577: 730373,869530921,Maciej,Sochacki,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Kaszubska 6b/1,80-318,883131708
+	Linia  840843: 840004,441135092,Nikodem,Kowalczyk,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Kusocińskiego Klatka B Nr 28,80-288,+48 737394524
+	Linia  842978: 2303147,637947965,Magdalena,Chmielewska,39959,Poland,Greater Poland Voivodeship,Gdańsk,Cygańska Góra 20/18,8559,501 029 336
+	Linia  845933: 1878121,960107553,Anna,Siółkowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jabłońskiego 7a/1,80-766,+48 508 438 341
+	Linia  849114: 622839,830602237,Artur,Nguyen,39959,Poland,Pomeranian Voivodeship,Gdańsk,Piekarnicza 17/47,80-126,532491321
+	Linia  852369: 1594136,621892542,Jakub,Wojtaszczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Chrobrego96C/13,80-414,884300339
+	Linia  852817: 387124,535303470,Antoni,Borysewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,cygańska góra 18b/20,80-171,722084408
+	Linia  853162: 1819942,775899506,Malwina,Madeksza,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Batorego 39c/32,80-251,+48790607500
+	Linia  854077: 826630,774691644,Kevin,Karliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Głuszca 25,80-283,508539999
+	Linia  854317: 1811166,236179355,andrzej,dominiczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska33a/14,80-283,696637657
+	Linia  854728: 2210863,677122883,Łukasz,Makowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Polanki 46/6,80-308,514500079
+	Linia  861995: 1911761,282911458,Łukasz,Kurowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Elizy Orzeszkowej 9a/1,80-208,883444288
+	Linia  869332: 1111597,782887846,Nikodem,Korzonek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Świtezianki 25,80-124,501478370
+	Linia  870200: 1770895,599523800,Adam,Malinowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cebertowicza 17/3,80-809,882492928
+	Linia  872632: 1475993,906935932,Krzysztof,Markowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleja Grunwaldzka 613,80-337,882912986
+	Linia  872689: 1933677,448620467,Maja,Buziecka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Płocka 42,80-180,508221555
+	Linia  875016: 1216777,773613542,Wojciech,Benc,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grzybowa 53,80-298,+48510533678
+	Linia  875604: 1173644,246312349,Alicja,Piotrkowska,39959,Poland,Pomeranian Voivodeship,Gdansk,Wacława Kłoczkowskiego 7/12, Gdańsk,80-180,530 898 822
+	Linia  883314: 354981,432043411,Jakub,Malik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Porębskiego 25/15,80-180,+48 789 340 686
+	Linia  883835: 488352,288284876,Ignacy,Kapica,39959,Poland,Pomeranian Voivodeship,Gdańsk,Politechniczna17,80-288,579637681
+	Linia  887754: 2167106,978305794,Maksym,Gałecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nieborowska 13/3,80-034,+48579901467
+	Linia  892907: 690819,170958402,Jan,Łoś,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wichrowe Wzgórze 2/4,80-293,534108954
+	Linia  893191: 921383,503200298,Vladyslav,Seleznov,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nadmorski Dwór 8a, Appartement 8,80-506,733294132
+	Linia  895606: 337614,442752601,Szymon,Pakura,39959,Poland,Pomeranian Voivodeship,Gdańsk,Śląska11A/1,80-384,736 257 755
+	Linia  897356: 1384081,913536072,dawid,górecki,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Juszkowo Wodna 11A,83-000,+48738367694
+	Linia  900412: 1979139,567925296,Tymoteusz,Ościłowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Teofila Lenartowicza 6,80-704,570485064
+	Linia  900919: 1783879,738924533,Mateusz,Nowak,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Jana Kasprowicza 9a/3,80-313,+48537733188
+	Linia  905708: 1160616,229743827,Dominik,Gadomski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Prometeusza 15A,80-299,+48574507757
+	Linia  908302: 1422126,838704586,patryk,krzeminski,39959,Poland,Pomeranian Voivodeship,gdańsk,szmaragdowa 5b/21,80-180,+48514995444
+	Linia  918393: 1181235,465659878,Filip,Tymański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lubczykowa 52,80-177,513611634
+	Linia  924290: 2026812,236185419,Piotr,Pilarski,39959,Poland,Pomeranian Voivodeship,gdańsk,sienna 12b nr15,80-705,506612012
+	Linia  926507: 2004359,875700632,Piotr,Koseda,39959,Poland,Pomeranian Voivodeship,Gdańsk,Antygony 65/2,80-299,666166665
+	Linia  926714: 725297,301584276,Michal,Khatib,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Sadowa 25/2,80-771,+48537745444
+	Linia  929507: 2260238,138005918,Szymon,Gruca,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Zielone Wzgórze 23,83-330,514 015 636
+	Linia  932710: 1073831,776565765,Nikodem,Żebrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Związku Jaszczurczego 3/64,80-288,608658537
+	Linia  939282: 2001765,337035770,Szymon,Sobecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Warneńska,80-288,692909956
+	Linia  939783: 872020,660838119,Michał,Orłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cieszyńskiego 21/4,80-809,794161727
+	Linia  941404: 1506410,236185419,Igor,Orkwiszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 95
+	Linia  944697: 818776,842077461,Kamil,Ellwardt,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kołobrzeska 65 H/3,80-396,+48511998846
+	Linia  950249: 1604539,185878514,Franek,Imie,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leśna1/7,80-322,736 300 968
+	Linia  950473: 2196080,950283363,Monika,kleina,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szpora1/3,80809,506135501
+	Linia  956157: 701988,163173554,Janek,Wróbel,39959,Poland,Pomeranian Voivodeship,Gdańsk,Klukowska 7E,80-298,790424826
+	Linia  959062: 1554163,638320238,Michał,Śliwiński,39959,Poland,Pomeranian Voivodeship,gdańsk,goszczyńskiego 30/17,80-134,799997818
+	Linia  961293: 1106323,569586436,Jakub,Opasek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Marii Konopnickiej 16, apartament 17,80-240,578297026
+	Linia  962057: 498150,480822426,Ignacy,Kapica,39959,Poland,Pomeranian Voivodeship,Gdańsk,Politechniczna17/7,80-288,579637681
+	Linia  968247: 395711,421303886,Raman,Huraliuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyspiańskiego 5a,80-434,+48791183831
+	Linia  968411: 1800231,607344085,Damian,Jaros,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grunwaldzka 92/98 mieszkania 36,80-244,503832562
+	Linia  968800: 2307825,769784406,Hubert,Walkowski,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Mściszewice 85A,83-321,538288241
+	Linia  970060: 1467596,787145898,liliowa,3a,39959,Poland,Greater Poland Voivodeship,gdańsk,liliowa 3a,83-050,729879237
+	Linia  970342: 2033555,443541704,Patryk,Szynkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,hokejowa 77/31,80-180,+48601629849
+	Linia  973269: 2198365,707036494,Jan,Gabała,39959,Poland,Pomeranian Voivodeship,Gdańsk,hokejowa 16/1,80-180,572325835
+	Linia  974590: 1521973,992448091,Valentyna,Vorchak,39959,Poland,Pomeranian Voivodeship,Gdańsk,str. Nieborowska 28/22
+	Linia  974591: 80-034 Gdańsk,80-034,+48508002322
+	Linia  977746: 1583032,966975081,Adrian,Jabłoński,39959,Poland,Pomeranian Voivodeship,Gdańsk,aleja Wojska Polskiego 37B/11,80-268,+48884007410
+	Linia  978309: 715106,213798102,Rafał,Rozgajło,39959,Poland,Pomeranian Voivodeship,Gdańsk,Plac Dominikański 1 Hala Targowa box 034,80-844,507607944
+	Linia  978478: 498187,105506826,Adam,Zakrzewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska 345A/5,80-125,+48661016563
+	Linia  980560: 98200,573883218,Mateusz,Urbanowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Damroki 55,80-177,570771495
+	Linia  984390: 2159497,648838928,IGOR,SKALSKI,39959,Poland,Kujawsko-Pomorskie,GDAŃSK,LEŹNO UL.STADIONOWA 2,80-298,0048534001230
+	Linia  990633: 1642716,650650650,Franek,Andrzejewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wojska Polskiego 56/9,80268,692666115
+	Linia  993220: 831251,544104355,Kamila,Recław,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Kochanowskiego 74/4,80-402,696092711
+	Linia  996323: 1997351,834159828,Olaf,Ziegert,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk,Oliwa,Podhalańska 14,80-322,669672307
+	Linia  997256: 1788176,399237995,krystian,krefta,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Juliusza Słowackiego 24/6,230309,731130309
+	Linia  997687: 938142,194062121,Tomasz,Hampel,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rajska 4E/10,80-850,724908513
+	Linia 1005024: 118809,817032794,Maks,Jakóbiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Maurycego Beniowskiego 11a/19,80-382,+48505984454
+	Linia 1007603: 448664,666742899,Igor,Łagoda,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 33i/185
+	Linia 1010032: 1341629,960340235,Filip,Szymański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul.Jaworowa 18,80-175,786070070
+	Linia 1012238: 2029979,417870069,Mariusz,Schabowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Żwirki i Wigury 1D/2,80-463,669002859
+	Linia 1020126: 1805353,741318930,Paweł,Pastuła,39959,Poland,Pomeranian Voivodeship,Gdańsk,Paderewskiego 4-98,80-170,533733853
+	Linia 1023036: 1611397,575290304,lucjan,Wiśniewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Konrada guderskiego 1/63,80-180,535355050
+	Linia 1026593: 1481458,598659603,Artur,Ukhach,39959,Poland,Pomeranian Voivodeship,Gdańsk,Osowa, Akteona 24/8,80-299,788776620
+	Linia 1026821: 1286820,734114046,Piotr,Mania,39959,Poland,Pomeranian Voivodeship,Gdańsk,Junony 31D/3,80-299,+48 503 154 884
+	Linia 1027678: 2152651,940692029,Jan,Szałkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Taborowa 1/36
+	Linia 1031708: 53607,592153077,Jakub ,Choroszkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Biwakowa 35,80-299,+48 797 462 116
+	Linia 1037739: 556497,170651654,miłosz,bajko,39959,Poland,Greater Poland Voivodeship,gdańsk,Kochanowskiego 65/4,80-402,530776775
+	Linia 1040598: 907006,689998414,Przemysław,Śliwiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lawendowe Wzgórze 22/9,80-175,504179556
+	Linia 1040917: 1358308,294294878,Jakub,Kaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 17D/5,80-537,796678767
+	Linia 1041227: 1807053,990846775,Szymon,Juszczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk ul.Jednorożca 77a/1,80-299,731018360
+	Linia 1041939: 630884,319409537,Kacper,Stanisławek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Chojnicka 22,80-299,48+ 501 087 592
+	Linia 1043600: 1345434,584078191,Gracjan,Wendt,39959,Poland,Pomeranian Voivodeship,Gdańsk,Witolda Grabowskiego 15/20,80-809,883369933
+	Linia 1049408: 587786,296255688,Kacper,Dec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jeleniogórska 13/24,80-180,780440128
+	Linia 1053493: 1915241,548373768,Jan,Kowalczuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,dąbrówki 121 12,80-034,505359027
+	Linia 1054320: 1325323,479650411,Daniel,Hawryłkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Na Zaspę 2B/8,80-546,+48501544923
+	Linia 1054321: 2140841,749464807,Adam,R,39959,Poland,Pomeranian Voivodeship,Gdańsk,Karola Chodkiewicza 17a/9,80-506,795954052
+	Linia 1055503: 1023108,869530921,Marek,Banaczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Biskupa Konstantyna Dominika 5b/12,80-041,518 609 922
+	Linia 1057103: 1541963,578619285,Rudskyj Mykola,Rudskyj,39959,Poland,Kujawsko-Pomorskie,Gdańsk,apartment number 6, address Franciszka Bohomolca 3A,80-410,+48721788485
+	Linia 1059096: 598781,589435640,Aleksander,Pudełko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Żywiecka 6/3,80-407,504555213
+	Linia 1060223: 1627827,942386155,Rostislav,Bodnar,39959,Poland,Pomeranian Voivodeship,Gdańsk,Spadochroniarzy 18,80-298,+48452264917
+	Linia 1064263: 1923209,445061000,Andrea,Di Sora,39959,Poland,Pomeranian Voivodeship,Gdańsk,Powstańców Wielkopolskich 5A 18,80-457,575285602
+	Linia 1065382: 794256,650634901,Wiktor,Lasowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szeroka 119/120 annadentalclinic,80-835,+48 698 959 515
+	Linia 1069746: 1200032,959922345,Alex,du coudray,39959,Poland,Pomeranian Voivodeship,Gdańsk,Horacego 15,80-299,791654460
+	Linia 1071910: 675146,558292478,Paweł,Łakomiec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Czarny Dwór 10B/9,80-365,690506067
+	Linia 1074864: 1485431,970704198,Olek,Żejmo,39959,Poland,Pomeranian Voivodeship,Gdańsk,Malachitowa 53/1,80-298,729884648
+	Linia 1081147: 1852079,501644448,Ioann,shiderov,39959,Poland,Pomeranian Voivodeship,Gdańsk,Połczyńska 22H. 1,80-174,+480574003351
+	Linia 1081479: 217310,889939600,Paweł,Nawrocki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Płowce 25,80-153,+48 502 131 899
+	Linia 1085614: 2280164,488767346,Krystian,Wikarjusz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Żarnowiecka 5/2,80-727,690989333
+	Linia 1086749: 1299346,916602640,Maksymilian,Zylic,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Srebrna 16/5,80-180,515866772
+	Linia 1090542: 498399,504420376,Paweł,Bejer,39959,Poland,Pomeranian Voivodeship,Gdańsk,Góralska 67/3,80-292,728377321
+	Linia 1094172: 568958,407357238,Mateusz,Drabik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jednorożca 100/1,80-299,739211195
+	Linia 1095313: 884309,736477157,Ola,Blicharska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Sosnkowskiego 19B/8,80-041,882 300 755
+	Linia 1096151: 1132578,496774762,Maciej,Klikowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Inżynierska
+	Linia 1097573: 757330,510182097,Maciej,Jarząbek,39959,Poland,Pomeranian Voivodeship,Gdańsk Oliwa,Krzywoustego 18/42,80-360,570094007
+	Linia 1102032: 2127636,157094785,Seb,Fel,39959,Poland,Pomeranian Voivodeship,Gdańsk,Komandorska 62,80-299,518447527
+	Linia 1105446: 1082432,630591853,Olena,Sysorova,39959,Poland,Pomeranian Voivodeship,Gdańsk,A. Flisykowskiego 1/34,80-180,+48886836870
+	Linia 1106284: 1511926,211147438,Grzegorz,Szulist,39959,Poland,Pomeranian Voivodeship,Gdańsk,Marynarki Polskiej 55D,80-557,517297135
+	Linia 1110016: 2157805,598899415,Filip,Kot,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bądkowskiego 43/5,80-137,512365486
+	Linia 1111544: 834032,805365398,Marta,Gajo,39959,Poland,Pomeranian Voivodeship,Gdańsk,Starowiejska
+	Linia 1113960: 1645613,806840801,Tycjan,Drzewucki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jarosza Henryka Derdowskiego 8a/2,80-318,531282013
+	Linia 1116406: 1869052,964098585,Nikodem,Grubba,39959,Poland,Pomeranian Voivodeship,Gdańsk,Goska17/43,80-177,513937414
+	Linia 1124079: 358606,172982645,Olaf,Trojanowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ciołkowskiego 1 e/6,80-463,+48 731 541 271
+	Linia 1124905: 121071,761248885,tymon,janura,39959,Poland,Pomeranian Voivodeship,gdańsk,Wigierska 42/4,80-180,662180818
+	Linia 1129923: 1957401,903080349,Jakub,Włoch,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ciołkowskiego 1g/14,80-463,518181912
+	Linia 1131258: 2260740,550128259,Jan Pańczak ,Jan Pańczak ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Ostroroga 3/60,80-406,662327478
+	Linia 1134536: 2332214,743331369,Kacper,Koryciński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Prezydenta Lecha Kaczyńskiego 6A/1,80-373,501490569
+	Linia 1135114: 932250,164045250,Igor,Franc,39959,Poland,Pomeranian Voivodeship,Gdańsk,Juliusza Słowackiego 28/3,80-281,+48 698539697
+	Linia 1138871: 1186234,543338571,bartek,banaszek,39959,Poland,Pomeranian Voivodeship,gdańsk,przytulna 30/18,80-176,+48508792818
+	Linia 1140024: 1789138,699889045,Wiktor,Szpaczek,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Prezydenta Lecha Kaczyńskiego 35,80-364,664616714
+	Linia 1140233: 2282470,895982010,Leon,Kruk,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Zbigniewa Burzyńskiego 12D/21,-,513 331 302
+	Linia 1142153: 1109720,748737393,Paweł,Zwierzycki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Janusza Korczaka 9,80-450,531828311
+	Linia 1145590: 253171,233662858,Jakub,Kotłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lawendowe Wzgórze 73/19,80-175,511123008
+	Linia 1146986: 127665,761248885,tymon,janura,39959,Poland,Pomeranian Voivodeship,gdańsk,Wigierska 42/4,80-180,662180818
+	Linia 1152533: 426876,800719501,filip,smyk,39959,Poland,Pomeranian Voivodeship,gdańsk,Srebrniki 5b numer mieszkania 11 Gdańsk,80-298,881396888
+	Linia 1154774: 398084,142225582,Natalia,Matyla,39959,Poland,Pomeranian Voivodeship,Gdańsk,Partyzantów 8/102, Zajawa Tattoo,80-254,731095235
+	Linia 1155974: 1612180,398419831,Katarzyna,Kania,39959,Poland,Greater Poland Voivodeship,Gdańsk,Jana Kielasa 24/9,80-180,512621388
+	Linia 1157699: 1248860,944907596,Kamil,Kapiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Chmielna 72 c1/19,80-748,+48539968120
+	Linia 1158867: 57774,752331331,Michał,Kijora,39959,Poland,Pomeranian Voivodeship,Gdańsk,Piecewska 28B 28,80-288,664765939
+	Linia 1163180: 197178,933816191,Franek,Kostecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Radarowa 121,80-298,533 808 041
+	Linia 1163263: 1682777,449361638,Mariusz,Orzel,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Rzeczypospolitej 1C/31,80-369,507981317
+	Linia 1166164: 1404753,330790434,Kacper,M,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Wawelska 4B/8,80-034,506348605
+	Linia 1169848: 2278580,182740354,Wiktor,Borowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dragana 16H Lokal STS,80-807,536249397
+	Linia 1173091: 1977626,624444125,Remigiusz,Chrobak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Fromborska 13E/9,80-398,510818302
+	Linia 1175750: 1311661,642113744,jan,ser,39959,Poland,Pomeranian Voivodeship,gdańsk,Aleja rzeczyposplitej 8,80-369,794012713
+	Linia 1176885: 185528,389167791,Bartosz,Zieliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kaziemierza Porębskiego 20/3,80-180,509187541
+	Linia 1182334: 547407,791182718,Jan,Bembnista,39959,Poland,Pomeranian Voivodeship,Gdańsk,Powstańców Wielkopolskich 5a/3,80-457,510227646
+	Linia 1183278: 2226669,884223041,Oliwier,Kasprowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Toruńska 20 numer mieszkania 14,80-747,511435640
+	Linia 1183777: 1626479,144789884,Bartosz,Mazur,39959,Poland,Pomeranian Voivodeship,Gdańsk,Obrońców Wybrzeża 17/204,80-398,500442003
+	Linia 1184623: 1432596,670897395,Konrad,Kazanecki,39959,Poland,Pomeranian Voivodeship,gdańsk,radarowa 20a,80-298,669677696
+	Linia 1185672: 1518547,159963316,Kamil,Berg,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Pucka 4B/4,80-392,+48537415821
+	Linia 1185707: 1183681,929149251,Kacper,Malon,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sierpniowa 23,80-178,576949929
+	Linia 1188108: 2083626,854533528,Maria,Żakowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przemian 37/44,80-180,883412936
+	Linia 1190491: 892100,759770538,mariusz,opania,39959,Poland,Pomeranian Voivodeship,gdańsk,wyzwolenia 51b/18,80-537,502762719
+	Linia 1191603: 203402,501358663,Konrad,Legowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Słonimskiego 5/6,80-280,601761350
+	Linia 1194787: 777793,845430269,Antek,kolelsi,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hausbranta 32,80126,573409280
+	Linia 1196946: 1242140,551467341,Aleksander,Głodkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Danusi1/5A,80-434,780459419
+	Linia 1197599: 1935168,404976393,Kuba,Orlikowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sąsiedzka 25,80-298,507583858
+	Linia 1206784: 494644,662135668,Patryk,Karczewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Radarowa 10,80-298,572295451
+	Linia 1207610: 325762,159679355,maksym,banas,39959,Poland,Pomeranian Voivodeship,gdańsk,Narcyzowa
+	Linia 1210750: 1884224,397839815,Krzysztof,Marszalec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Prezydenta Lecha Kaczyńskiego A/12,80-364,796 202 603
+	Linia 1213207: 2137985,186574099,Wiktor,B,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gustawa Herlinga - Grudzińskiego 19F/8,80-283,722391895
+	Linia 1216508: 1962621,969957262,Filip,Poński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dąbrówki 94a/23,80-034,737885183
+	Linia 1228428: 1560195,789292021,Szymon,Kuzimski,39959,Poland,Pomeranian Voivodeship,Gdańsk,street-Pólnicy 45/7,80-177,530746130
+	Linia 1232016: 1768557,358623307,Maciej,Soja,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tamka 29 c/34,80-627,516202601
+	Linia 1235749: 432614,782416279,Piotr,Jarmużek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Słupska 44,80-392,794774088
+	Linia 1237542: 71255,758540200,Vladlen,Bilohorodskyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,Srebniki
+	Linia 1238125: 469705,562225027,Kacper,Abram,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wojska Polskiego 37c/3 80-268,80-268,538407170
+	Linia 1252502: 2338601,253584103,Bartosz,Wiśniewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Targ Sienny
+	Linia 1253343: 1572635,772373075,Grażyna,Kluczna,39959,Poland,Pomeranian Voivodeship,Gdańsk,Drzewieckiego 3c/2,80-464,509409445
+	Linia 1257419: 201215,455349904,Paweł,Formella,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przywidzka 8 Sklep 4F Drzwi nr8,80-174,+48572583519
+	Linia 1264608: 2351283,593196570,Antoni,Dziamałek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Junony31C 11,80-299,579848151
+	Linia 1285093: 1525424,777645004,Paweł,Jereczek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Władysława IV 25c/6,80-545,505848441
+	Linia 1290105: 688429,352293454,RINAT,HARKAVCEV,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zakopiańska 15/1,80-143,883110219
+	Linia 1295008: 1434717,294294878,Jan,Wyszyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Drożyny 19,80-302,692916199
+	Linia 1296604: 2310543,889850025,Anna,Pietkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Generała Władysława Andersa 26/1,80-175,514259667
+	Linia 1296692: 1656190,437640593,Vlad,Vovk,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Tadeusza Kościuszki 58/6,80-446,+48666902220
+	Linia 1300109: 2054349,375889635,Maks,Oziębło,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Pawła II  1c/51,80-462,533758079
+	Linia 1301065: 1367053,393008940,kamil,kazmierski,39959,Poland,Pomeranian Voivodeship,gdańsk,seredyńskiego 7b/6,80-753,797843800
+	Linia 1305361: 465503,147475272,tomasz,wojdylak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Satelitarna 7,80-298,+48 508808008
+	Linia 1310466: 344811,854206338,tomek,wasilewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,pomorska 22 e 15,80 330,882627315
+	Linia 1312588: 444158,344545575,piotr,ceranowski,39959,Poland,Pomeranian Voivodeship,gdańsk,Gdansk Stylowa 2E 74,80-180,720 783 712
+	Linia 1313425: 1545296,137299686,Alicja,Quant,39959,Poland,Lesser Poland Voivodeship,Gdańsk,Wrzeszczańska 29,80-409,600455873
+	Linia 1314299: 1213086,677653570,Marta,Pawlak,39959,Poland,Kujawsko-Pomorskie,Gdańsk,ul.Kolorowa 25e/46,80-180,739668221
+	Linia 1318019: 1114641,187780446,Dominik,Motyka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dywizji Wołyńskiej 18c\7,80-041,733333404
+	Linia 1319594: 2231085,155150735,Dawid,Kowalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hoża 9C
+	Linia 1325124: 1278569,748222994,Piotr,Filarski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Potęgowska 6c/4,80-174,535517959
+	Linia 1325317: 79236,69524225,Filip,Piskorz,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Subislawa 27c/15,80-335,+48576912481
+	Linia 1325491: 2357964,756523566,Nazarii,Zadorozhnyi ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Ogarna 15/19A mieszkanie 14 ,80-826,694617956
+	Linia 1331071: 601252,385789736,Piotr,Giedo,39959,Poland,Pomeranian Voivodeship,Gdańsk,Partyzantów 53/5,80-254,+48 733 311 315
+	Linia 1331309: 1339742,366618026,Tomasz,Jetter,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleja Generała Józefa Hallera 100/3,80-420,787764245
+	Linia 1335093: 1896027,121471723,Aliaksandr,Amelyanchuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stanisława Wyspiańskiego 7 (DS5),80-434,+48506729269
+	Linia 1335197: 1241441,846708810,Aleksandra,Chyczewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Porębskiego 72/23, 3rd floor,80-180,531223525
+	Linia 1335819: 2158092,724323492,Tomasz,Olechowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Starowiejska 50/67,80-534,+48883915315
+	Linia 1340099: 462547,883390111,Marcel,Mec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Królewskie Wzgórze 25/5,80-283,782688713
+	Linia 1341800: 1720510,967173514,jan,marosi,39959,Poland,Greater Poland Voivodeship,Gdańsk,Gdańsk Bolesława Chrobrego 96d/1,80-414,696380695
+	Linia 1344638: 370311,172322029,Alan,Gałach,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zimna 2A/12,80-625,+48 692551198
+	Linia 1348094: 949092,883384939,oleksiy,kutsyna,39959,Poland,Greater Poland Voivodeship,Gdańsk,Dzielna 86,80-404,+48577051496
+	Linia 1352218: 1256416,325453773,Jakub,Kapica,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lesna Gora 8/16,80-281,+48720791961
+	Linia 1352701: 2015677,670456512,Pavlo,Khrynivskyi,39959,Poland,Kujawsko-Pomorskie,Gdańsk,juraty 24/1,80-299,+48537765915
+	Linia 1353220: 1684095,331618412,Wojciech,Gajdamowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia
+	Linia 1355622: 354753,809771037,Łukasz,Mesinger-Stankiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Raclawicka 17B/23,80-406,503475578
+	Linia 1359242: 619064,406589069,Konrad,Obarski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleksandry Gabrysiak 36/6,80-175,504198919
+	Linia 1362010: 1877933,949388027,Damian,Fryszkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leźno
+	Linia 1374887: 1340016,689074540,mateusz,zalewski,39959,Poland,Pomeranian Voivodeship,gdańsk,wawelska 25/14,80-034,+48517260796
+	Linia 1377513: 1344665,238990222,Michał,Kentzer,39959,Poland,Pomeranian Voivodeship,Gdańsk,stolema 22/4,80-177,573284228
+	Linia 1382162: 46752,7422893,Maksymilian,Dziewirz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wołkowyska 5/6,80-283,+48   518244474
+	Linia 1385630: 1878137,137938519,tfdhthrghfghf,ghfghfgfhhgf,39959,Poland,Greater Poland Voivodeship,gdańsk,sasi bak 5,18080,5445648744
+	Linia 1385681: 1685635,153891093,Karina,Jurewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Platynowa 26d/33,80-041,+48535151730
+	Linia 1387043: 1075121,648094856,Dawid,Połubiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wrzeszcz Waryńskiego 40a/3,80-242,579954353
+	Linia 1394157: 495488,68793362,Nikodem,Wiszniewskj,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nieborowska 51/11,80-034,698012994
+	Linia 1404875: 1213680,851547208,Olgierd,Tałaj,39959,Poland,Greater Poland Voivodeship,Gdańsk,Chrzanowskiego 6,80-278,606738895
+	Linia 1407665: 1710452,730638891,Piotr,zielonka,39959,Poland,Pomeranian Voivodeship,Gdańsk,storczykowa 7a/4,80-177,579321081
+	Linia 1408874: 1190178,679410346,Oliwier,Zawierzeniec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wigierska 40/2,80-180,790787177
+	Linia 1410302: 960854,600238868,Nikodem,Raczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kępna 10/2,80-635,733794663
+	Linia 1417226: 7154,28645751,Mateusz,Kotarski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Beniowskiego 3a/55,80-382,+48733402600
+	Linia 1419357: 2050766,875028524,Dawid,Jakiś,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wawelska 4H 22,80-034,733918302
+	Linia 1424977: 1365090,933861281,Krzysztof,Kunowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. 11 listopads 45,80-180,0048784552646
+	Linia 1428207: 130509,760633837,Sebastian,Graboś,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk Startowa 13 Klatka F Numer 1,80-461,513012187
+	Linia 1428221: 2191164,756198623,Alan,Boguń,39959,Poland,Pomeranian Voivodeship,Gdańsk,Brzeźno PCK 4 Cage A apartament number 10,80-519,507025113
+	Linia 1429442: 262777,549954304,Aleksander,Guliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Babidół Jaśminowy Stok 1A,83-050,500491590
+	Linia 1429584: 1208868,111987849,Witold,Kunowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,11 listopada 45,80-180,0048784552646
+	Linia 1431303: 700468,882397920,Wojciech,Tandeck,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Raciborskiego 93,80-215,570818788
+	Linia 1432825: 1970398,245070467,Sebastian,jankun,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska, 20d/30,80-333,512118785
+	Linia 1432829: 1621092,801159817,Filip,Azarczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Inżynierska 6,80-298,0048736941151
+	Linia 1437529: 423833,210576280,maurycy,kozakiewicz,39959,Poland,Pomeranian Voivodeship,gdańsk,wacława kłoczkowskiego 5/2,80-180,574 494 619
+	Linia 1440590: 1460179,446389627,Maciej,Socha,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lęborska 22c/8,80-387,661160329
+	Linia 1441758: 1332098,556553671,Vadim,Uchacz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Akteona 24/8,80-299,888161907
+	Linia 1441817: 1636159,368232781,Michal,Gala,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grunwaldzka 26a,80-229,577071108
+	Linia 1444465: 2244975,942714341,Alina,Palinchak,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Rajska 8E,80-851,+48575125890
+	Linia 1451793: 157090,7422893,Maksymilian,Dziewirz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ulica Wołkowyska, 5/6,80-283,48+ 518244474
+	Linia 1458800: 1080675,782887846,Antoni,Felisiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Agatowa 14,80-180,530775265
+	Linia 1462200: 1860167,849371636,Radosław,Gierszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zelwerowicza 55,80-516,789144171
+	Linia 1465797: 1084386,631811841,Michał,Bogdziewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wołkowyska 15/11,80-283,512049833
+	Linia 1465868: 2079598,515034778,Konstanty,Zieliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,asnyka 4/1,80-316,663818262
+	Linia 1467794: 1771327,977497804,Kuba,Nadolny,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Bora Komorowskiego 85a/1
+	Linia 1467795: Gdańsk 
+	Linia 1474335: 1475595,871301349,Maciej,Tomczykowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kaprów 10,80-316,+48 785341717
+	Linia 1483257: 1278243,160754075,Wiktor,Koper,39959,Poland,Pomeranian Voivodeship,Gdańsk,myśliwska 89 D 3,80-283,515867362
+	Linia 1484262: 766211,982865990,Natalia,Vargas Encinales,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Przytulna 9/53,80-176,506510711
+	Linia 1486126: 2130604,237860325,Maciej,Tymszan,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska nr 19A,80-333,795713073
+	Linia 1487803: 1666714,278710456,Katarzyna,Muła -Piotrowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tarniny 23 A,80-716,+48692348585
+	Linia 1488878: 562843,976463638,Grzegorz,Zujewski,39959,Poland,Pomeranian Voivodeship,Gdańsk-Wrzeszcz,Polska Gdańsk-Wrzeszcz ul.Współczesna 1b/6,80-253,888709180
+	Linia 1489199: 1323224,674597725,Artem,Shvydkyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,ulica Czesława Miłosza 47A/35,80-126,+48733005397
+	Linia 1490335: 1341152,640042785,Justyna,Biernacka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grudziądzka 10/110,80-414,502602677
+	Linia 1494184: 196314,987762419,Dominika,Lehmann Formela,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimerza Wielkiego 29/3,80-180,+48516551610
+	Linia 1495807: 677645,843536566,Adam,Tomaszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bolesława Chrobrego 79D, 54,80-414,603040483
+	Linia 1496758: 2157063,297636278,Antek,Plichta,39959,Poland,Pomeranian Voivodeship,Gdańsk,bysewo ul. budowlanych 30,80-298,509921748
+	Linia 1505376: 923948,144348625,Maciej,Grządziela,39959,Poland,Pomeranian Voivodeship,Gdańsk,Drzewickiego 5c/3,80-464,794787968
+	Linia 1511436: 1083936,642113744,janek,seris,39959,Poland,Pomeranian Voivodeship,gdańsk,kołobrzeska 28c,80-394,794012713
+	Linia 1519638: 2024317,966935805,Alex,Perkins,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gołuńska 22,80-178,571793700
+	Linia 1520380: 1166326,117646841,Bartosz,Sowa,39959,Poland,Pomeranian Voivodeship,Gdańsk,Biegańskiego 31/90,80-807,577102936
+	Linia 1525303: 2105220,383913667,kamil,obarzanek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leśna góra 8/36,80-281,731753517
+	Linia 1526259: 1017809,524059775,Mateusz,Ostrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleja Generała Józefa Hallera 157/11,80-416,536032018
+	Linia 1532834: 1039177,807808574,Aleks,Aleks,39959,Poland,Pomeranian Voivodeship,Gdańsk,Danusi 1/5A,80-434,579729061
+	Linia 1533451: 498030,162171683,Wojciech,Frankowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk/kowale Heliosa 14b/14,80/180,509860121
+	Linia 1534190: 805178,726464659,Anna,Jakobschy,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wajdeloty 13, Fin-Tax.,80-437,+48 665603030
+	Linia 1545018: 2291505,738405387,Bartek,Ostrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leszczynowa 84a/10,80-175,502014562
+	Linia 1551856: 1120975,413407891,Wiktoria,Sierotowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,32 Pilotów 14F,80-460,723416440
+	Linia 1561873: 1235993,947345643,Andrzej,Lemke,39959,Poland,Pomeranian Voivodeship,Gdańsk,UL. Ujescisko 16/D4,80-130,48730307070
+	Linia 1566572: 839787,707260802,Mateusz,Gradowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nieborowska 5/12,80-034,606764478
+	Linia 1570553: 369626,487416813,Jan,Laube,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stoczniowców 12,80-812,502 918 805
+	Linia 1572614: 2286377,979275936,Julian,Gołębiewski ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Bolesława Chrobrego 79a/22,80-414,510724730
+	Linia 1579564: 1436174,920164057,Monika,Trybek,39959,Poland,Pomeranian Voivodeship,GDAŃSK,TADEUSZA WENDY 13F,80-299,0048600723330
+	Linia 1582226: 2288904,400020368,Oleksandra,Ukhtynska ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Poland. City Gdańsk, zip code 80-462.
+	Linia 1583634: 2271392,286751526,Paweł,Bajor,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Augustyńskiego 2 pokój 300,80-810,694081543
+	Linia 1586722: 1329295,270652252,Jan,Lakomiec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Knyszyńska 4/1,80-180,576330339
+	Linia 1587060: 1558480,542833346,Yehor,Hovezhenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Józefa Czyżewskiego 33,80-836,+48698782354
+	Linia 1587658: 623667,127198705,Tomek,Kusiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Płocka,80-180,697951220
+	Linia 1595256: 1693524,638081206,Bartosz,Chojnacki,39959,Poland,Pomeranian Voivodeship,Gdańsk,pilotów 19f/7,80-460,667047277
+	Linia 1596722: 2129485,690578505,Marek,Doll,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk,Chłopska24B,15,80-375,794170608
+	Linia 1597335: 1643831,397984626,Piotr,Krzyża,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Skiby 28 apartament 6 kod 1111,80-718,796888211
+	Linia 1600205: 1691380,236005945,Michał,Sokołowski,39959,Poland,Greater Poland Voivodeship,Gdańsk,Leśny Stok 4/10,80-260,509605936
+	Linia 1610170: 1777522,825433023,Tymon,Łaszcz,39959,Poland,Pomeranian Voivodeship,Gdańsk,królewskie wzgórze 11b/21,80-288,513795841
+	Linia 1614357: 2303182,637947965,Magdalena ,Chmielewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cygańska Góra 20/18,80-171,501 029 336
+	Linia 1618412: 666730,906410468,Joanna,Zawadzka,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.  Anny Jagiellonki 34/1,80-180,502 352 895
+	Linia 1620954: 1817827,441522032,Marcin,Sojka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wiślina Gdańska 20,83-021,606788886
+	Linia 1624394: 1414464,825791178,Mikołaj,Wódarczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jasieńska 89,80-175,502919088
+	Linia 1625509: 248370,413662016,Jan,Ziółkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wybickiego 19/7,80-440,663911384
+	Linia 1629351: 2059004,813886571,Mikołaj,Masłow,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 80b-5,80-283,694447673
+	Linia 1630960: 2165875,766987502,Ignacy,Kaszuba,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleksandry Gabrysiak 20/2 ,80-175,512233284
+	Linia 1632513: 106830,805804446,Franciszek,Szabowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leśmiana 3/5,80280,781021150
+	Linia 1638140: 2278582,895949873,Filip,Siemborski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bergiela 10e/11 GDAŃSK,80-180,+48 511810337
+	Linia 1638901: 226423,604758060,Maciej,Miler,39959,Poland,Pomeranian Voivodeship,Gdańsk,Biegańskiego19b/17,80807,+48 518 832 019
+	Linia 1640511: 1325800,798799241,Mateusz,Piotrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,prof. Kazimierza Kopeckiego 4/36,80-809,665450543
+	Linia 1648949: 1535963,381242816,Jan,Nieroda,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Aleja generała Józefa Hallera 133/6,80-416,508585114
+	Linia 1658095: 1536500,974451643,Borys,Andrzejewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wielkopolska 65/17,80-180,+48792004169
+	Linia 1663536: 1797371,455974613,Roman,Ponomarenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gospody 3c/2 De solo,80-344,48+731736539
+	Linia 1665841: 1446158,198156479,Oskar,Pajak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Czaple 197a,80-298,+48 664 177 727
+	Linia 1666299: 1088259,825706021,Antoni,Łukasiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,pawła gdańca 6b/16,80-336,537951978
+	Linia 1667184: 1200522,469513317,Tymon,Kowalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Budapesztańska, 11/6,80-288,531489297
+	Linia 1667390: 344404,878183670,Adam,Krawczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ignacego Matuszewskiego 27F Gdańsk 80-288,80-288,+48791020082
+	Linia 1668673: 1022824,721148337,Anna,Konovalova,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rotmanka, Jagodowa 7/3a,83-010,+48886045663
+	Linia 1669741: 810082,628600456,Szymon,wądolowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Góralska 67/37,80-292,535377146
+	Linia 1671375: 2169714,452200536,PAWEŁ,TEODORCZUK,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska
+	Linia 1675340: 1210560,382816376,Rafa,Gimenez,39959,Poland,Pomeranian Voivodeship,Gdańsk,Robotnicza 16,80-864,653824134
+	Linia 1675969: 496426,108051363,ty,ty,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk Hebanowskiego 87 A/6,80-766,690571001
+	Linia 1680878: 688277,368551044,Hubert,Nowicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wielkopolska 33c,80-180,+48 695695417
+	Linia 1682231: 2007683,552701630,Monika,Myślak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Trakt Świętego Wojciecha 284,80-001,696697335
+	Linia 1686908: 2274285,281681290,Martyna,Janecka,39959,Poland,Pomeranian Voivodeship,Gdańsk,świętokrzyska 66,80-180,602665835
+	Linia 1687110: 1776304,946569211,Illia,Borychevskiy,39959,Poland,Pomeranian Voivodeship,Gdańsk,Długa Grobla 8 
+	Linia 1687399: 1905950,207974931,Tymon,Kołakowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ludowa 5, 80-279, Gdańsk,80-279,+48739068689
+	Linia 1688323: 1077264,272724530,Szymon,Lipkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk Gospody 8b/9,80-344,+48 667837284
+	Linia 1690763: 1000191,960892653,Kamil,Bnadrowski,39959,Poland,Pomeranian Voivodeship,gdańsk,piotrkowska 13/3,80-180,883780208
+	Linia 1691140: 1848473,872884530,Nina,Matysiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Czajki 1/1, Gdańsk Poland,80-680,724 777 065
+	Linia 1693544: 1063723,715505168,Szymon,Lewandowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pilotów 10c 27,80-460,537276673
+	Linia 1694266: 2322704,710599532,ADD,A,39959,Poland,Pomeranian Voivodeship,GDAŃSK,MICHAŁA OGINSKIEGO 29/1,80-114,502987404
+	Linia 1696041: 1623875,173754437,Adrian,Dziedzic,39959,Poland,Pomeranian Voivodeship,Gdańsk,Plac Wybickiego 10/6,80-440,604698353
+	Linia 1698346: 1986822,277615814,Denver,Freda,39959,Poland,Pomeranian Voivodeship,Gdańsk,Chełmońskiego 1C/7 GDAŃSK,80-301,+48 572565366
+	Linia 1698679: 1431064,148674568,Tomasz,Popławski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Falck Polonusa 13b/28,80-609,604544063
+	Linia 1699473: 1642914,539872315,Igor,Marcholewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Osowa, Wenus 9,80-299,532694493
+	Linia 1700244: 2037996,388491458,Marcel,Ryszard,39959,Poland,Pomeranian Voivodeship,Gdańsk,adama mickiewicza 38/1,80-405,519649806
+	Linia 1700283: 1232680,443638311,darek,ruczynski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska 300D /1,80-125,+48600654685
+	Linia 1703428: 1353298,536906424,Tymon,Wiśniewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 63 B /8,80-283,535139878
+	Linia 1709553: 439581,665133988,Olivier,Dobrzyński ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Czesława miłosza 47/57,80-126,509786724
+	Linia 1710853: 2122511,393358018,ivan,hrushchenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sniadeckich 11, Mieszkanie 5,80-204,+48720825360
+	Linia 1714112: 156957,398259632,Marcel,Wielorański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Słowackiego 27/66,80-257,792974133
+	Linia 1714237: 1696893,172322029,Krystian,Gałach,39959,Poland,Pomeranian Voivodeship,Gdańsk,Generała Władysława Andersa 18/U8,80-283,660778662
+	Linia 1716652: 1860155,849371636,Radosław,Gierszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zelwerowicza 55,80-516,789144171
+	Linia 1718171: 17201,58035197,cwel,cwel,39959,Poland,Pomeranian Voivodeship,Gdańsk,chasebag#8888 zhackowana13,80-809,508351418
+	Linia 1718887: 2079226,774403880,Oliwier,Jakubowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ulica Szeroka 56/57 mieszkanie 5,80-835,784126232
+	Linia 1726201: 1296534,523618687,Michał,Waśkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wileńska 61a/12,80-215,+48535054666
+	Linia 1727698: 1423733,703467342,Bartlomiej,Werner,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bohomolca 3e/13,80-410,600765855
+	Linia 1728285: 2277200,325403266,Khrystyna ,Kovalyshyn,39959,Poland,Pomeranian Voivodeship,Gdańsk ,80-126 , street Hausbrandta 30a/12 , Gdansk , Poland ,80-126,+48731939101
+	Linia 1728805: 598785,589435640,Aleksander,Pudełko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Żywiecka 6/3,80-407,504555213
+	Linia 1729078: 1115215,629581989,olaf,wiszniewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Marcina Dragana 3/37,80-807,784419738
+	Linia 1732274: 2004987,496853121,karol,lorenc,39959,Poland,Pomeranian Voivodeship,gdańsk,bzowa 7/33,80-376,697364100
+	Linia 1734203: 1442572,549961441,Mateusz,Ostrowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleja Generała Józefa Hallera 157/11,80-416,+48536032018
+	Linia 1744860: 44171,475943693,jakub,skibinski,39959,Poland,Pomeranian Voivodeship,gdańsk,nieborowska 46/40,80/034,+48881356723
+	Linia 1746876: 1446260,570865290,Szymon,Karpiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Goska 28/23,80-177,517902410
+	Linia 1753886: 1878372,344964060,Karolina,Mroczkowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Chałubińskiego 33/16,80-807,791176109
+	Linia 1754116: 1650388,906665143,Stanisław,Cupa,39959,Poland,Pomeranian Voivodeship,Gdańsk,11 listopada 60,80-180,+48724733060
+	Linia 1754865: 586314,530799842,Szymon,Potorski,39959,Poland,Pomeranian Voivodeship,Gdansk,Gdańsk, Chałubińskiego 37/40,80-807,+48725267604
+	Linia 1759064: 68070,938291862,Dawid,Gortat,39959,Poland,Pomeranian Voivodeship,Gdańsk,Smoluchowskiego 4/9,80-214,504984034
+	Linia 1760110: 2088204,826819576,Igor,Mierzejewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Janusza meissnera 17/86,80-462,518606215
+	Linia 1761109: 1869407,508489318,Tomasz,Popławski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Falck Polonusa 13/28,80-609,604544063
+	Linia 1761655: 1230755,530314882,Aleksandra,Mroczko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kołobrzeska 44m apartament number 5,80-394,791051108
+	Linia 1762268: 2082963,379890070,Kacper,Jakubiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rzeczypospolitej 4d/28,80-369,668351054
+	Linia 1763647: 2018920,419420996,Gabriel,kowalewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,stefanii sempołowskiej 8 apartment 7,80-744,512619384
+	Linia 1766245: 1855626,673674144,Tomasz,Przeperski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stryjewskiego 19c/57,80-625,0048791356665
+	Linia 1772154: 1814752,477147122,Sylwia,Cichowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zbigniewa Burzyńskiego
+	Linia 1773658: 1034775,473263900,Dominik,Miłejko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tamka 10a/10,80-609,789141420
+	Linia 1781527: 758880,288531715,Oskar,Mikulski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lastadia 35 /G19,80-880,697 647 786
+	Linia 1784274: 2222533,208481628,Kacper,Marciniak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Świtezianki 41,80/124,887038039
+	Linia 1787028: 1431899,123283374,Jakub,Piepiórka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cieszyńskiego 30/38,80-809,516855562
+	Linia 1787417: 1132750,531845293,LAURA,STANKIEWICZ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Warszawska 87 Gdańsk,80-180,519507273
+	Linia 1788584: 1347239,973161006,Alan,Dragankiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,piwna
+	Linia 1789407: 1010397,147066714,Wojtek,Leszczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Regatowa 1,80-299,667507169
+	Linia 1802296: 2196074,950283363,Monika,Kleina,39959,Poland,Pomeranian Voivodeship,Gdańsk,szpora 1/3,80 809,506135501
+	Linia 1804238: 1055200,467816921,Oleksii,Havrysh,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pilotow 8a 33,80-460,+48539491970
+	Linia 1805381: 209961,532877399,wiktor,adamczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Skarżyńskiego 3e 26,80-463,+48 797552567
+	Linia 1806983: 299995,304693709,Kacper,Czajka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wilanowska 4/26,80-809,510040006
+	Linia 1807018: 141988,303770736,Juliusz,Kępowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Morelowa 3/5,80-174,780129914
+	Linia 1810942: 1220714,889976756,Ksawery,Kozakiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stanisława Dubois 73,80-419,789-101-881
+	Linia 1818924: 2346072,149463672,Tomasz,Budny,39959,Poland,Pomeranian Voivodeship,Gdańsk,konstelacji 29,80-299,505652255
+	Linia 1819522: 1560772,588410887,Jakub,Bork,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska 94b/68,80-333,605574050
+	Linia 1820481: 1960760,125031848,Justyna,Kowalczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Platynowa 19/20,80-041,726931528
+	Linia 1820586: 1828706,504812458,Johny,Pietruszka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Marusarzówny 3/3,80-288,+48518640736
+	Linia 1823982: 2182241,480094744,Oliwier,Teodorczuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gojawiczyńskiej 4B/31,80-286,883528581
+	Linia 1824011: 1091704,659439771,Stanislaw,Kowalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Budapesztańska 11/6,80-288,531490721
+	Linia 1827921: 771500,535749301,Filip,Trawiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wilanowska
+	Linia 1832736: 1799907,140056277,Szymon,Michalski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Porębskiego 38/9,80-180,503621304
+	Linia 1839350: 117820,584688618,Mateusz,Rynkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Góralska 67/38,80-292,575101163
+	Linia 1843011: 1271424,747342992,Tymon,Topij,39959,Poland,Pomeranian Voivodeship,Gdańsk,Elbląska 59/2,80-724,501418148
+	Linia 1843157: 2290054,304349798,Krystian,Będkowski ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Pawła II
+	Linia 1844436: 1421193,405332627,Kateryna,Polishchuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grzegorza Fitelberga 1/1,80-271,+48795711377
+	Linia 1845382: 2072508,340883154,Mateusz,Dorotyn,39959,Poland,Pomeranian Voivodeship,Gdańsk,Beniowskiego 17/15,80-382,533250303
+	Linia 1849969: 614745,980497289,Karol,Olędzki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Synów Pułku 107,80-298,794798000
+	Linia 1856949: 1186921,628600456,Aleksander,wasowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Niepołomicka 34C apartament number 15,80-180,575755203
+	Linia 1859094: 1770567,145843985,Kamil,Klimko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Anny Jagiellonki 23/3,80-034,883342080
+	Linia 1862287: 1265650,503654831,Jan,Warecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,świętokrzyska 132/33,80-180,787513032
+	Linia 1862988: 973700,860540408,Denis,Golmontowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk piastowska 60B/49,80332,534328135
+	Linia 1876772: 4010,28723591,Tymoteusz,Radominski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kornela Makuszynskiego 5B/9,80-291,505462506
+	Linia 1880434: 2309707,170953453,Stefania,Kaim,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul..Otomińska 26, Gdańsk,80-178,603710170
+	Linia 1881938: 844340,641818147,Szymon,Domachowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Czajkowskiego 2/33,80-169,516070306
+	Linia 1885590: 1354757,279888291,Mateusz,Sochala,39959,Poland,Kujawsko-Pomorskie,gdańsk,Dywzji Wołyńskiej 21c/10,80-041,698788910
+	Linia 1886692: 210402,626005889,Maciej,Dymek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Anny Jagiellonki
+	Linia 1891095: 956156,205620294,Franciszek,Naumiuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wita Stwosza 81 b/10,80-268,+48881414565
+	Linia 1894506: 1016257,467923157,Mateusz,Żyrek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk, Wyzwolenia 7D/5,80-537,510330989
+	Linia 1898750: 1983094,205267041,Kasia,Smal,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Pawła II 50  rejestracja główna,80-462,604883502
+	Linia 1898995: 715262,896670448,Aleksander,Frankowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Niegowo 11B,80-003,505436303
+	Linia 1899961: 1617157,687329957,Amelia,Klimaszewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wiślinka, ul. Bursztynowa 4,83-011,661 841 215
+	Linia 1903078: 616467,377913041,Jakub,Chmura,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jaworzniaków 26/1,80-180,(48) 881 695 144
+	Linia 1904606: 898046,436807134,Mateusz,Bindek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wileńska 53 c/9,80-215,534107813
+	Linia 1904797: 1745539,724904557,ksawery,karmowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,bobrowa 9,80-336,514285438
+	Linia 1905506: 2048205,922090475,Kuba,Raulin,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sąsiedzka 10,80-298,514 531 194
+	Linia 1907087: 1241423,822103661,Maciej,Grządziela,39959,Poland,Pomeranian Voivodeship,Gdańsk,Drzewieckiego 5C/3 floor 1,80-464,794787968
+	Linia 1908251: 1985705,895982010,Leon,Kruk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zbigniewa Burzyńskiego 12D/21 6 piętro,80-462,513331302
+	Linia 1909369: 406075,555284346,Monika,Łapińska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Hebanowskiego 83e/5,80-766,602190015
+	Linia 1909394: 1401865,918141020,Szymon,Jackowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,trakt Świętego Wojciecha 189a/4,80-017,574120403
+	Linia 1914571: 1538593,502719780,Wojciech,Krause,39959,Poland,Pomeranian Voivodeship,Gdańsk,Biegańskiego 27/20,80-807,784401355
+	Linia 1918141: 2359366,705363398,Tomasz,Szczygieł,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sympatyczna 20/20,80-176,537152388
+	Linia 1923270: 1702572,731746748,kacper,fantastyczny,39959,Poland,Pomeranian Voivodeship,Gdańsk,kraśnięta 31,80-177,507235132
+	Linia 1923476: 2062620,687739517,Tima,Korin,39959,Poland,Pomeranian Voivodeship,Gdansk,Mikołaja Reja, 80-404 Gdańsk,80-000,+48575021867
+	Linia 1928568: 1532276,406051215,Zofia,Zielke,39959,Poland,Pomeranian Voivodeship,Gdańsk,Józefa Zator-Przytockiego 2a/8,80-244,+48505862937
+	Linia 1930214: 2265627,420597695,Przemysław,Juchniewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lawendowe Wzgórze 13A/28,80-175,737372647
+	Linia 1931058: 1873576,463134058,Justyna,Mierska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Balcerskiego 14A,80-299,792235055
+	Linia 1933492: 840003,441135092,Nikodem,Kowalczyk,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Kusocińskiego Klatka B Nr 28,80-288,+48 737394524
+	Linia 1933581: 677848,262232444,Wiktor,Szczepanik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Starowiejska 48A/6
+	Linia 1933893: 2183511,352961664,Igor,Skomski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Meissnera 23B/5,80-462,+48728277144
+	Linia 1938866: 2113789,159454128,Wojciech,Bajda,39959,Poland,Pomeranian Voivodeship,Gdańsk,first floor first apartment,80-871,519399803
+	Linia 1942187: 863504,692355869,magdalena,lesinska,39959,Poland,Kujawsko-Pomorskie,gdańsk,kupców gdańskich 39,39-189,536264362
+	Linia 1943808: 48982,376074578,Wiktor,Pull,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stefana Batorego 4/2a,80-251,504228669
+	Linia 1948615: 236175,878980667,Valery,Balandin,39959,Poland,Warmian-Masurian Voivodeship,Gdańsk,Karola Chodkiewicza 18,80-506,+48538573983
+	Linia 1952158: 1331653,745113835,Piotr,Prasek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Myśliwska 90B/1,80-283,+48517039159
+	Linia 1953842: 883759,468000287,Jan,Lach,39959,Poland,Pomeranian Voivodeship,Gdańsk,al. Jana Pawła II 3A/133,80-462,+48736777111
+	Linia 1956798: 1978837,453978082,Witold,Klimaszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Aleksandra Dulina 1A/5,80-180,+48 731234141
+	Linia 1959005: 2132552,486368860,Denys,Myslinskyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,kołobrzeska 42D/24,80-396,+48786934265
+	Linia 1963179: 1118980,163173554,Wojciech,Wróbel,39959,Poland,Pomeranian Voivodeship,Gdańsk,Klukowska 7E,80-298,790424826
+	Linia 1964577: 1041121,742245907,Tomasz,Wasilewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przytulna 19A/5,80-176,699979711
+	Linia 1965355: 166569,908634374,Eldar,Ozarko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Niepołomicka 50/46,80-180,579270418
+	Linia 1965447: 560974,162151836,alex,du Coudray,39959,Poland,Pomeranian Voivodeship,Gdańsk,Horacego 15,80299,791664460
+	Linia 1968351: 1861234,260184513,Julian,Sykus,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Powstania Styczniowego 3b/20,80-288,500735079
+	Linia 1972596: 210385,717734153,Jerzy,Pańczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jaśkowa Dolina 73c/B9,80-286,575118006
+	Linia 1975769: 2140672,666793747,Sylwia,Drozdowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Karola Chodkiewicza 11/10
+	Linia 1985690: 844333,641818147,Szymon,Domachwski,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Piotra Czajkowskiego 2/33,80-169,516070306
+	Linia 1986136: 1393608,885279525,ksawery,ferenc,39959,Poland,Pomeranian Voivodeship,gdańsk,goska 63,80-177,+48511186566
+	Linia 1986416: 2014782,324935722,Patryk,Kramp,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Franciszka Mamuszki 15a,80-178,570953123
+	Linia 1987100: 1006988,842317037,Maciej,Rapicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Podkowa 1,80-174,692028270
+	Linia 1987979: 2237532,355417270,Dorota,Kabat,39959,Poland,Pomeranian Voivodeship,Gdańsk,Arkońska23a/1
+	Linia 1990164: 1702818,817615323,Jakub,Jędrzejewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rybna 1c/6,80-626,691978354
+	Linia 1990173: 1977231,435990785,Rustam,Dmytrenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Piecewska 9/9,Gdańsk,80-288,+48512004881
+	Linia 1998681: 2155624,514860309,Artur,Bilous,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Gdańsk , Gospody 8c/9,80-344,690450282
+	Linia 2005239: 1634633,598355911,Artsiom,Astapenko,39959,Poland,Greater Poland Voivodeship,gdańsk,Olsztyńska 3c/100,80-395,570605716
+	Linia 2005496: 1975096,452782645,Damian,Trzosek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jeleniogórska 13E/24,80-180,884303293
+	Linia 2008715: 1592659,245435127,Bartosz,Formela,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Wielkiego 48/12,80-180,514641013
+	Linia 2011928: 100165,357738831,Pawel,Nedvid,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ciołkowskiego 8A/12,80-463,797409773
+	Linia 2015150: 1440391,992983881,Filip,Kosmol,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ołowianka 1,80-751,572910011
+	Linia 2015634: 1542960,908149486,Szymon,Majewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szczecińska 2a/12,80-392,+48603392955
+	Linia 2016866: 2072300,486718610,Bartek,Kulpa,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gojawiczyńskiej 6c/2,80-286,577572037
+	Linia 2017572: 1504950,353933146,Karol,kownacki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nad Jarem 31B,80-135,575458384
+	Linia 2025498: 872021,660838119,Michał,Orłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cieszyńskiego 21/4,80-809,794161727
+	Linia 2028125: 2111976,694754434,Tomasz,Cieślik,39959,Poland,Pomeranian Voivodeship,Gdańsk,Obrońców wybrzeża 25A/71,80-398,+48886730501
+	Linia 2028729: 2028152,530314882,Aleksandra,Mroczko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pomorska 86b/18,80-345,791051108
+	Linia 2030970: 102884,357738831,Helena,Rojbul,39959,Poland,Pomeranian Voivodeship,Gdańsk,Abrahama 1A, biuro 5.03 ,80-307,507750107
+	Linia 2038503: 1530862,110251015,Liudmyla,Dmytrenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wielkopolska, 48/37,80-180,+48574379270
+	Linia 2040930: 2186988,700772979,Anastasiia ,Synytska ,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Rybaki górne 7/30,80-861,+48788810378
+	Linia 2042296: 971632,920972936,Oskar,Tumiński,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Gdańsk Zaspa, Hynka 18/9,80-465,728 652 930
+	Linia 2045100: 2255807,144610615,Oskar,Chilkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Klukowo,Astronautów 51,80-298,48+ 733 666 234
+	Linia 2049761: 1584342,712097863,Aleksander,Car,39959,Poland,Pomeranian Voivodeship,Gdańsk,Obrońców Wybrzeża 7/5,80-398,733463853
+	Linia 2054338: 1246286,833838041,Michal,Kaczmarek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rakoczego 19/59, Gdańsk, 80-288,80-288,+48519870068
+	Linia 2056608: 1403294,503654831,Jan,warecki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Świętokrzyska 132/33,80-180,787513032
+	Linia 2058657: 825727,707148363,Antoni,Czaja,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pobiedzisko 8/4,80-113,534135326
+	Linia 2059267: 1705392,238914422,Jan,Domel,39959,Poland,Pomeranian Voivodeship,Gdańsk,uranowa 3C 32,80-041,667837366
+	Linia 2059405: 825312,916901374,Artem,Mentenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Grundwalzka 54 Gdańsk / mieszkanie 10,80-241,576632535
+	Linia 2060448: 2035645,315387826,Bartłomiej,Nowak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Niepołomicka 34c/9,80-180,512040180
+	Linia 2062624: 1468383,747765636,norbert,parada,39959,Poland,Pomeranian Voivodeship,gdańsk,kolarska 8c,80-180,+48881489778
+	Linia 2063247: 1630998,972329300,Marcel,Bojanowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bielkowo Żytnia 11,83-050,576949065
+	Linia 2067591: 1255768,744543180,nikodem,mazurowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,świętokrzyska 130/34,80-180,725583000
+	Linia 2070651: 2247530,869135301,Damian ,Przybysz,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Srebrna 36/20,80-180,+48514399918
+	Linia 2073372: 794255,650634901,Wiktor,Lasowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szeroka 119/120 annadentalclinic,80-835,+48 698 959 515
+	Linia 2076155: 1688221,406312146,Alex,Dzięgielewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Czaplewska 5 Kokoszki,80-298,690506096
+	Linia 2076734: 24747,158971935,Oskar ,Ostrowski,39959,Poland,Pomeranian Voivodeship,gdańsk,własna strzecha 1 ,80-234,576969407
+	Linia 2078665: 65590,595915465,Filip,Szwarc,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Bażantowa 19/10,80-175,696856651
+	Linia 2080196: 667730,954045663,Oleksii,Malyshev,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lastadia 36/25,80-880,+48 578 570 466
+	Linia 2083360: 497821,279678594,Olo,Mina,39959,Poland,Pomeranian Voivodeship,Gdańsk,7,Batorego 9,80-170,794524405
+	Linia 2084869: 727458,561724183,Mikołaj,Firlej,39959,Poland,Pomeranian Voivodeship,Gdańsk,Polanki 32 1a,80-308,732774871
+	Linia 2092352: 1535431,267237155,Kateryna,Polishchuk,39959,Poland,Pomeranian Voivodeship,Gdańsk.,Grzegorza Fitelberga 1/1
+	Linia 2092543: 491326,675016207,adrian,Gajtkowski,39959,Poland,Pomeranian Voivodeship,gdańsk,Romana Wyrobka 1/8,80-288,575210707
+	Linia 2093431: 1717242,347937931,Robert,Jajus,39959,Poland,Pomeranian Voivodeship,Gdańsk,Widlińska 8,80-178,+48534720998
+	Linia 2094600: 461348,178547080,Mark,Kudla,39959,Poland,Pomeranian Voivodeship,Gdańsk,Al. gen. Józefa Hallera 132/26,80-416,730080827
+	Linia 2099385: 2243205,722264403,Filip,Lewandowski ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pilotów 19e/10,80-460,+48533373005
+	Linia 2104594: 1885844,881957068,Michal,Wachowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Biegańskiego 21 a/2,80-807,606230806
+	Linia 2104758: 1643016,957417782,Paweł,Oporski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wolności 15/4,80-541,513082309
+	Linia 2107041: 1051371,338804145,Jakub,Wabia,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nad Jarem 49,80-135,579524123
+	Linia 2108845: 794238,779962353,Jakub,Mizerski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Inżynierska 19d Gdańsk,80-298,+48 605 530 175
+	Linia 2110764: 973788,19927569,Karol,Budziński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana i Macieja Kilarskich 8/18,80-320,+48734405290
+	Linia 2116831: 917479,317276631,Viktor,Isalov,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Wielkiego 28/2,80-180,662792110
+	Linia 2120258: 1395203,183643599,Jan,Sobociński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jaśkowa Dolina 38/1,80-246,728896321
+	Linia 2122512: 171283,399949632,Kuba,Słowak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nowiec 81,80-293,693463203
+	Linia 2125736: 2229334,976179373,Marcin,Gibert,39959,Poland,Pomeranian Voivodeship,Gdańsk ,Al.Legionów 34/2,80-441,503616678
+	Linia 2131304: 913183,898569316,Sofia,Syzonenko,39959,Poland,Pomeranian Voivodeship,Gdańsk,platynowa 16, apartment number 52, floor 4,80-041,+48 739 414 353
+	Linia 2132641: 1232747,717083830,Mateusz,Franczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ludowa 18a,80-279,795003215
+	Linia 2132769: 1296877,567931990,Illia,Herasymov,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Kartuska 357,80-125,+48792578273
+	Linia 2132912: 476132,35005513,Alexandre ,Corrula,39959,Poland,Pomeranian Voivodeship,Gdansk,Robotnicza 16, 80 864 Gdańsk,  youniq,80 864 Gdansk,+351 936660472
+	Linia 2134498: 1717972,260572438,Weronika,Hallmann,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cieszyńskiego 25/17,80-809,600198763
+	Linia 2134587: 998349,551656824,Piotr,Piorkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Raciborskiego
+	Linia 2134588: 15, Gdańsk,80-215,883625406
+	Linia 2137983: 2111405,700636133,Damian,Wałdowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nadwiślańska 79a,80-680,514765536
+	Linia 2140274: 1096473,779819580,Dawid,Jegliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Księcia Józefa Poniadowskiego 7/7,80-156,726260204
+	Linia 2140728: 2186597,773851121,Marzena sajko,Sajko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ojcowska 92,80-146,690980787
+	Linia 2146536: 1221557,318477715,Dawid,Białek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szpora 14,80-809,505555190
+	Linia 2149661: 173576,628600456,olek ,wasowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,stara stocznia 2\30B,80-862,575755203
+	Linia 2150690: 1033363,730601219,Nikodem,Klimaszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,street Srebrna 10 , apartament number 17,80-180,513785747
+	Linia 2153716: 1518606,864726866,Yan,Yan,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stylowa 4B , apartament 27,80-180,+48510063276
+	Linia 2154507: 2292057,849043147,Michal,Chyliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Diany 36/27,80-299,792046072
+	Linia 2156287: 81250,729342465,Yaroslav,Seredenko,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Walowa 38/25,80-858,+48575115442
+	Linia 2156532: 2344947,210190647,Maksymilian,Kołodziejczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska 459B/17,80-298,696700153
+	Linia 2158202: 1544884,728755103,Jakub,Kaźmierczak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Mariana Seredyńskiego 10/4a,80-753,+48510914146
+	Linia 2167473: 1579376,625459101,Anna,Bierawska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cyganska Gora 16b/19,80-171,505344528
+	Linia 2167990: 171233,782887846,kacper,schulz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Powstańców warszawskich 30/2,80-152,884270260
+	Linia 2168188: 1681343,504976223,Danik,Makarenka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Orłowska 5d/20,80-347,+48451203599
+	Linia 2169747: 581791,468353852,Cyprian,Wiczliński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leśny Stok 4/22,80-260,+48 881 543 532
+	Linia 2170393: 2243546,294294878,Jakub,Kaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 17D/5,80-537,796678767
+	Linia 2173706: 157788,577728710,Activ,Senior,39959,Poland,Pomeranian Voivodeship,Gdańsk,Malczewskiego 133,80-107,507730094
+	Linia 2173878: 1966538,705233442,Wiktor,Jarmuz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 51B piętro 11 numer mieszkania 128,80-537,660707004
+	Linia 2173889: 1856272,138005918,Michał,Cieśliński,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Stanisława Lema 17/91,80-126,789067402
+	Linia 2182439: 341806,878183670,Adam,Krawczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ignacego Matuszewskiego 27F, Gdańsk, Polska, 80-288,80-288,791020082
+	Linia 2185640: 1897690,159987970,Eliza,Kopicka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Legnicka9/4,80-150,+48600377029
+	Linia 2188877: 1142436,294294878,Jakub,Kaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 17D/5,80-537,796678767
+	Linia 2189142: 1983109,508897771,Kacper,Czop,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dunikowskiego 15d/12,80-524,515666389
+	Linia 2192328: 1712732,593076986,Jakub,Krajewski,39959,Poland,Pomeranian Voivodeship,Gdańsk Osowa,Gryfa Pomorskiego 1B,80-299,513091656
+	Linia 2202840: 445508,702780486,Monika,Mazurek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kartuska 459A/5,80-298,+48500693749
+	Linia 2203847: 813955,929512358,Iwo,Czapkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bliska 6/4,80-541,601808573
+	Linia 2205287: 1822862,790350770,Maciej,Radlak,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Kołobrzeska 51C/15,80-396,572 203 674
+	Linia 2206523: 2298879,342502851,Aleksander,Ostapczuk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dąbrówki 125/17,80-034,533852133
+	Linia 2206734: 98094,615139901,Jerzy Filip,Podlewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Partyzantów 13b/3,80-254,+48793211777
+	Linia 2206873: 1142095,809014569,Wiktor,Grabowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Świbnieńska 74,80-690,660069743
+	Linia 2208140: 2320614,376870955,Svitlana , Popovych,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Polska, Gdańsk, Orłowska 9C/16 ,80-347 ,80-347,+48696936933
+	Linia 2209580: 1785393,854029778,Izabela,Sokolowska-Boulton,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Jaśkowa Dolina 52/1,80-286,0048609661270
+	Linia 2210254: 1068693,898288212,marcel,abraham,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kapitana Karola Olgierda Borchardta 15/3  80-299 Gdańsk,80-299,535484232
+	Linia 2210791: 2021463,254462958,Michał,Fabiniak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Wielkiego
+	Linia 2211725: 2145777,994803823,Michał,Wolski,39959,Poland,Pomeranian Voivodeship,Gdańsk,królikarnia 6/7 4,87/44,513697325
+	Linia 2212225: 1763547,877266560,Markus,Królikowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zygmunta Noskowskiego 13A/21,80-170,665813683
+	Linia 2214222: 275907,580351608,Kacper,Gurski,39959,Poland,Pomeranian Voivodeship,Gdańsk,kolejowa 7/1,80-201,572630768
+	Linia 2216357: 1848604,835665872,Jakub,Malek,39959,Poland,Pomeranian Voivodeship,Gdańsk,jaworzniaków 12/3,80-180,799080298
+	Linia 2220889: 356403,850894510,Michał ,Brzozowski ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tadeusza Wendy 10
+	Linia 2223478: 2303107,238543892,Adrian,Dziedzic,39959,Poland,Pomeranian Voivodeship,Gdańsk,Plac Wybickiego
+	Linia 2229789: 475576,138010639,Jakub,ajtel,39959,Poland,Pomeranian Voivodeship,gdańsk,Angielska Grobla 33/29,80-756,+48 505103861
+	Linia 2236386: 1698631,836415169,Paweł,Cz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lubczykowa 68,80-177,724256073
+	Linia 2236704: 1840639,374506713,Misha,Danishevskyi,39959,Poland,Pomeranian Voivodeship,Gdańsk,zygmunta rumla 7a mieszkanie 9,80-041,+48501382333
+	Linia 2237136: 1005269,759607485,Maksymilian,Starczewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Azaliowa, 33,80-177,536544589
+	Linia 2239174: 1386268,337218335,Szymon,Sikora,39959,Poland,Pomeranian Voivodeship,Gdańsk,Henryka Sienkiewicza 3/8 pietro 4,80-227,575559566
+	Linia 2239997: 330096,579732776,Kacper,Malon,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sierpniowa 23,80-178,576949929
+	Linia 2251930: 1242781,463564621,Kacper,Tymborski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ogarna 15,80-826,537716556
+	Linia 2252112: 1527532,356692066,Ewa,Szwajkowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Poland 
+	Linia 2252114: Gdańsk,80-766,509 383 921
+	Linia 2256225: 142536,575797714,Grzegorz,Czajkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sulmin 38K,83331,576079440
+	Linia 2258729: 502634,743701527,Mariola,Sadowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cedrowa 39/82,80-126,605453438
+	Linia 2259209: 1654538,627421971,Maksymilian,Kiszkiel,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Anny Jagiellonki 9/19,80-034,+48 690468670
+	Linia 2264729: 1065932,769592375,kacper,piotrkowski,39959,Poland,Pomeranian Voivodeship,gdańsk,sebastiana klonowicza 14/4,80-405,731360308
+	Linia 2266156: 2322168,189162140,Olaf,Sołdyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sympatyczna 6,80-176,+48579320872
+	Linia 2266451: 2283718,809792215,Kamil,Jagła,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ulica Władysława Biegańskiego 31/31 klatka D,80-807,784943446
+	Linia 2267084: 1825480,336186578,Szymon,topór,39959,Poland,Pomeranian Voivodeship,Gdańsk,Konrada guderskiego 18/47,80-180,662468240
+	Linia 2268598: 1179022,832597171,Jacek,Marszałek - EWP,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zacna 31,80-283,+48 502 080 992
+	Linia 2277296: 1666124,487455907,Łukasz,Śliwa,39959,Poland,Pomeranian Voivodeship,Gdańsk,Szpaki 3D mieszkanie 57,80-624,519649594
+	Linia 2281754: 52558,559413960,Krzysztof,Garnik,39959,Poland,Pomeranian Voivodeship,Gdańsk,street: Kościuszki 107 apartment: 4,80-427,+48 794558631
+	Linia 2281771: 675137,628600456,Adrian,Ochmann,39959,Poland,Pomeranian Voivodeship,Gdańsk,sierakowicka 11,80-178,573242118
+	Linia 2285294: 1464935,387418598,Iwo,Kamiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Obrońców Wybrzeża 11
+	Linia 2293273: 1291204,258266743,Jeremi,Grabowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,aleja Grunwaldzka 136
+	Linia 2295393: 1123958,809712332,Maciej,Pontus,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jaśminowy Stok 101,80-177,799956888
+	Linia 2296229: 1255861,585606216,Mateusz,Jaroszyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Świętokrzyska 17/32,80-180,510892155
+	Linia 2297886: 1393015,192434671,Maciej,Socha,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lęborska 22c/8,80-387,661160329
+	Linia 2304115: 902130,707939326,Patryk,Krupiński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Żwirki i wigury 1E/9,80-463,691929874
+	Linia 2304257: 63547,571648421,Maksymilian,Wichert,39959,Poland,Pomeranian Voivodeship,Gdańsk,góralska 55b/18,80-292,575743077
+	Linia 2307077: 1003866,585825559,Bartosz,Szczotko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Głogowska 12/8,80-302,48+ 780012033
+	Linia 2308594: 1085525,523031951,eryk,ceci,39959,Poland,Pomeranian Voivodeship,Gdańsk,morenowe wzgórze 26 B/5,80-283,739117005
+	Linia 2311016: 2054137,877812959,Maxym,Velychko,39959,Poland,Pomeranian Voivodeship,Gdańsk,chłodna 6/9,80-744,+48883688520
+	Linia 2318116: 495801,494454685,Grzegorz,Grzegorz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dywizji Wołyńskiej 22c/3,80-041,792580016
+	Linia 2318904: 1788382,510663227,Kamil,Zdrojewski,39959,Poland,Greater Poland Voivodeship,Gdańsk,Tamka 52c/23,80-627,508690519
+	Linia 2319784: 813792,628600456,ksawery,karmowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,bobrowa 9,80-336,514285438
+	Linia 2324774: 2307536,112991552,Marek,Krzewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jana Chryzostoma, Paska 2,80-107,608077604
+	Linia 2327960: 347800,460536311,Łukasz,Mesinger Stankiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Raclawicka 17B/23,80-406,503475578
+	Linia 2335360: 1764634,301257378,Józefina,Wiśniewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wielkopolska 46/5,80-180,518422882
+	Linia 2338679: 314305,890054306,Szymon,Świergiel,39959,Poland,Pomeranian Voivodeship,Gdańsk,mjr.słabego 15/3,80-298,502248765
+	Linia 2338757: 2046486,528415820,Paulina,Wałaszewska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Leskiego 26/9,80-180,+48536250813
+	Linia 2342008: 1677634,156509284,Konrad,Gleński,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Węgrzyna 14/59,80-175,790255748
+	Linia 2342016: 136606,232432831,Agnieszka,Stępień,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kolorowa
+	Linia 2343255: 1568820,844913301,Adrian,Adamczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Lawendowe Wzgórze 51/28, 80-175 Gdańsk,80-715,572248715
+	Linia 2362240: 326505,527526890,Mikołaj,Kowalina,39959,Poland,Pomeranian Voivodeship,Gdańsk,Pniewskiego 4/5,80-246,+48 574 870 080
+	Linia 2362381: 1678006,310484096,Krystian,Miakinków,39959,Poland,Pomeranian Voivodeship,Gdańsk,Janusza Meissnera 11/20,80-462,571412661
+	Linia 2365964: 1452515,619943392,Adam,Laubensztajn,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ignacego Paderewskiego 4c/87, Gdańsk,80-170,+48 517 228 273
+	Linia 2366882: 2327314,530203150,Leon,Cichy,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gospody 25B/9,80-344,+48600646828
+	Linia 2366981: 1467658,237403998,Antoni,Gajcy,39959,Poland,Pomeranian Voivodeship,Gdańsk,Olimpijska 21/5,80-180,665466866
+	Linia 2367596: 1687199,718251884,Ivan,Iablochkin,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bystrzycka 30, apartament 30,80-110,+48576341497
+	Linia 2369073: 828497,938793423,Michał,Nichnerowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jutrzenki 9,80-299,786802413
+	Linia 2369152: 500876,543554555,Marcin,Neumann,39959,Poland,Pomeranian Voivodeship,Gdańsk,Łąkowa 16/4b,80-743,573210621
+	Linia 2373350: 1909186,541918422,Antonina,Sadowska,39959,Poland,Pomeranian Voivodeship,Gdańsk,Polanki 58/3,80-306,728374955
+	Linia 2375654: 1293127,211614097,Natalia,Kuśnierz,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul.Królowej Jadwigi 117,80-034,+48730080800
+	Linia 2377966: 1765284,992983881,Andrzej,Kosmol,39959,Poland,Pomeranian Voivodeship,Gdańsk,Restauracja Harmonia ul. Łąkowa 1-2,80-743,+48 799 000 003
+	Linia 2381020: 309073,369989420,Kajtek,Dratkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Witolda Małcużynskiego 29,80-171,534340999
+	Linia 2385088: 1491936,413654736,Colin,Borowicki,39959,Poland,Pomeranian Voivodeship,gdańsk,Sienna Grobla 8E/258,80-760,+48664441222
+	Linia 2387740: 972914,854698828,Marcel,Tkaczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Angielska Grobla 34/18,80-756,606571538
+	Linia 2389301: 840726,916073880,Marcel,Wita,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jelenigórska 19a/11,80-180,516234700
+	Linia 2391074: 2350409,114248874,Agnieszka,Lendzion,39959,Poland,Pomeranian Voivodeship,Gdańsk,street: Myśliwska 73e/4,80-283,+48 791 130 981
+	Linia 2393197: 2273483,362800298,Tomasz,Krawczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Firma Kabar 
+	Linia 2395414: 1525124,957555508,Hugo,Capo,39959,Poland,Pomeranian Voivodeship,Gdańsk,Rycerza Blizbora 7/4,80-174,534906322
+	Linia 2398484: 1354203,229994788,Szymon,Werner,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bohomolca 3e/13 nr house 13,80-410,48516405120
+	Linia 2398571: 1896976,255049456,Igor,Ziniewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Andersa 18/30,80-175,513254582
+	Linia 2400404: 762022,861106394,Piotr,Juściński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ulica Zamenhofa 39 B,80-284,884984133
+	Linia 2403907: 1633554,981297762,Karol,Klimko,39959,Poland,Pomeranian Voivodeship,Gdańsk,Anny Jagiellonki 23/3,80-034,607270506
+	Linia 2406402: 1664780,696592373,Michał,Adamowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Feliksa Muzyka 21,80-180,690037700
+	Linia 2410094: 1368249,385086918,Piotr,Pazdro,39959,Poland,Pomeranian Voivodeship,gdańsk,Jednorożca
+	Linia 2411437: 1015472,350468833,Mateusz,Preiss,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cienista 22/54,80-809,724900375
+	Linia 2412575: 1935358,907796364,Paweł,Wojtysiak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stanisława Soldka 1a,80-299,507257427
+	Linia 2423710: 2011874,745998546,Igor,Juszkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Gdańsk , Osowa, Hery 6/10,80-299,519825759
+	Linia 2425834: 1055551,420082440,SZYMON,PIOTROWSKI,39959,Poland,Greater Poland Voivodeship,GDAŃSK,TELIGI 21,80-299,+48502495046
+	Linia 2427271: 2234598,946858734,Adam,Kaczyński,39959,Poland,Pomeranian Voivodeship,Gdańsk,Władysława Reymonta 17B/4,80-257,+48513161242
+	Linia 2431025: 1272255,238677415,Mikołaj,Małkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,choczewska 6,80-298,514510561
+	Linia 2433276: 119964,682326933,Szymon,Krylowicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kielasa 14/1,80-180,729 961  116
+	Linia 2435735: 438348,775849783,Michał,Jażdżewski,39959,Poland,Kujawsko-Pomorskie,Gdańsk,Aleksandra Dulin'a 12A/108,80-180,601 949 096
+	Linia 2436058: 756086,186856344,Daniel,Jefmański,39959,Poland,Pomeranian Voivodeship,Gdańsk,Powstańców warszawskich 23,80-151,511157800
+	Linia 2443823: 269024,544858148,Igor,Bartuś,39959,Poland,Pomeranian Voivodeship,Gdańsk,Tadeusza Jasińskiego 45/39,80-175,570814810
+	Linia 2444103: 1297557,274943107,Piotr,Dobrowolski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kurpińskiego 7c/25,80-169,512 506 184
+	Linia 2447523: 735111,771671821,oskar,chwojnicki,39959,Poland,Pomeranian Voivodeship,gdańsk,piecewska 29/31,80-288,576394296
+	Linia 2447773: 2032329,910501082,maciek,glebow,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nieborowska32B/11,80-034,579645673
+	Linia 2448522: 1028451,450814126,Igor,Brah,39959,Poland,Pomeranian Voivodeship,Gdańsk,Sówki 18,80-631,607558684
+	Linia 2450298: 1853822,803193387,Andrii,Hodovanets,39959,Poland,Kujawsko-Pomorskie,Gdańsk,zakopiańska 30,80-142,692931779
+	Linia 2451972: 872012,660838119,Michał,Orłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Cieszyńskiego 21/4,80-809,794161727
+	Linia 2456474: 818170,667426873,Agnieszka,Wydarty,39959,Poland,Pomeranian Voivodeship,Gdańsk,Ul. Aliny Pienkowskiej 81,80-180,889069660
+	Linia 2460879: 686968,488242873,Mikołaj,Trenkner,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wita Stworza 31B/12,80-312,+48 781 285 444
+	Linia 2463659: 427776,984290162,Iwo,Czapkowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Bliska 6/4,80-540,601808573
+	Linia 2475662: 492866,224456928,Oliwier,Pyrzewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kowale, ul. zeusa 10/4,80-180,535003958
+	Linia 2476115: 2134963,540107172,Jacek,Gdaniec,39959,Poland,Pomeranian Voivodeship,Gdańsk,Trakt Świętego Wojciecha 191/39,80-017,514583270
+	Linia 2479346: 1234099,792622606,Jakub,Mruczek,39959,Poland,Pomeranian Voivodeship,Gdańsk,worcella 42/3,80-809,+48 690466018
+	Linia 2480571: 2011336,895982010,Leon,Kruk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Zbigniewa Burzyńskiego 12D/21 6piętro,80-462,513331302
+	Linia 2481190: 1287634,742289047,Filip,Luchowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Czermińskiego 15/40,80-174,796-761-601
+	Linia 2481200: 1493391,166638991,Gabija,Jonkus,39959,Poland,Pomeranian Voivodeship,Gdańsk,Damroki99/5,80-177,509009799
+	Linia 2488057: 797078,414594331,Michał,Stępień,39959,Poland,Pomeranian Voivodeship,Gdańsk,Kazimierza Tetmajera 10,80-313,+48600800157
+	Linia 2493849: 811443,927217418,Tymek,Oryl,39959,Poland,Pomeranian Voivodeship,Gdańsk,Królewskie wzgórze 31/5,80/283,516 384 665
+	Linia 2497377: 2237531,355417270,Dorota,Kabat,39959,Poland,Pomeranian Voivodeship,Gdańsk,Arkońska23a/1
+	Linia 2500651: 1114640,187780446,Dominik,Motyka,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dywizji Wołyńskiej 18c\7,80-041,733333404
+	Linia 2504877: 1878148,935413233,natan,bednarczyk,39959,Poland,Pomeranian Voivodeship,Gdańsk,Turzycowa 5,80-174,880754585
+	Linia 2505290: 1420186,655687040,Oskar,Kulpa,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jagiellońska 10F/71,80-371,690939104
+	Linia 2509483: 1957002,656087697,Patrycja,Janke,39959,Poland,Pomeranian Voivodeship,Gdańsk,Janusza Meissnera 23A/20, Gdańsk Zaspa,80-462,519811269
+	Linia 2514437: 1080004,919506571,Oliwia,Preus,39959,Poland,Pomeranian Voivodeship,Gdańsk,Oliwia Preuss
+	Linia 2514440: 80-405 Gdańsk
+	Linia 2522887: 1700935,275134431,Michał,Ogorzałek,39959,Poland,Pomeranian Voivodeship,Gdańsk,Witosa 13/52,80809,666614477
+	Linia 2523955: 835103,893519255,Tomasz,Zygmunt,39959,Poland,Pomeranian Voivodeship,Gdańsk,Nieborowska 11/13,80-034,695667973
+	Linia 2535145: 1107241,157886975,Jerzy,Szubzda,39959,Poland,Pomeranian Voivodeship,Gdańsk,Potokowa 44A,80-283,799810818
+	Linia 2535425: 2046432,256027411,Dominik,Janin,39959,Poland,Pomeranian Voivodeship,Gdańsk,Emili Hoene 2B /18,80-041,500691073
+	Linia 2536201: 905953,544858148,Igor,B,39959,Poland,Pomeranian Voivodeship,Gdańsk,Heleny Marusarzówny
+	Linia 2537302: 2302418,591440158,Joanna,Jarmuż-wicher,39959,Poland,Pomeranian Voivodeship,Gdańsk,Wyzwolenia 51B,80-537,660707004
+	Linia 2537753: 164311,683698852,Alan,Redzimski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Jakuba Wejhera 3c
+	Linia 2541178: 1304734,295588472,Jakub,Arciszewski,39959,Poland,Pomeranian Voivodeship,Gdańsk,elfów 64,80-180,517061460
+	Linia 2542571: 1330550,372095861,Mateusz,Ławicki,39959,Poland,Pomeranian Voivodeship,Gdańsk,Startowa 7a 16,80-461,505708606
+	Linia 2547703: 1712566,777645004,Adrianna,Jereczek,39959,Poland,Pomeranian Voivodeship,Gdańsk,PRFPK SP. Z O.O. ul. Szara 33,80-116,538555347
+	Linia 2549024: 2097002,789947401,Andrei,Liushyts,39959,Poland,Pomeranian Voivodeship,Gdańsk,Stefanii Sempołowskiej 6, 20.,80-744,+48793910454
+	Linia 2551509: 2032130,877579762,igor,Podsiadłowski,39959,Poland,Pomeranian Voivodeship,Gdańsk,Dzielna 66,80-404,510685714
+	Linia 2556539: 109882,319608984,Bazyli,Wyborski ,39959,Poland,Pomeranian Voivodeship,Gdańsk,Przemyska 49/12,80-180,668467266
+	Linia 2558256: 1360835,436199943,Bartosz,Bujak,39959,Poland,Pomeranian Voivodeship,Gdańsk,Goszczyńskiego 28/12,80-134,727600007
+	Linia 2562104: 2344383,624757614,Tomasz,Budny,39959,Poland,Pomeranian Voivodeship,Gdańsk,konstelacji 29,80-299,505652255
+	Linia 2562285: 1615370,292314512,Marcin,Parus,39959,Poland,Pomeranian Voivodeship,Gdańsk,ul. Toruńska 18C/18,80-747,+48504453877
+	Linia 2564549: 1591772,330943849,Adam,Kowalczyk,39959,Poland,West Pomeranian Voivodeship,Gdańsk,Aleja Rzeczypospolitej 4D/135,80-369,+48665118848
+	Linia 2565964: 142384,791508645,Wojciech,Daszkiewicz,39959,Poland,Pomeranian Voivodeship,Gdańsk,Poland Gdańsk Malachitowa 21,80-298,533477634
